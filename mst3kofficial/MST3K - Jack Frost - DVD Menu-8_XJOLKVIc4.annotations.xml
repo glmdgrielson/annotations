@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI4sHB8avh3wIVA4OcCh0lKQxGKPgdMgJpdkjOw9SUi6fy-vMB">
+<annotation id="annotation_1024882455" type="highlight" log_data="a-id=annotation_1024882455&amp;ei=OD82XOLFMIOG8gSl0rCwBA&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.shoutfactory.com%2Ffilm%2Fsci-fi%2Fmst3k-volume-xviii&amp;a-v=8_XJOLKVIc4&amp;l-class=6" itct="CAEQs-UBGP___________wEiEwjiwcHxq-HfAhUDg5wKHSUpDEYo-B0yAml2SM7D1JSLp_L68wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.37900" y="28.73200" w="34.68300" h="10.25400" t="0:44.416"/>
+      <rectRegion x="51.37900" y="28.73200" w="34.68300" h="10.25400" t="0:49.435"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.shoutfactory.com/film/sci-fi/mst3k-volume-xviii" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_209293319" type="highlight" log_data="a-id=annotation_209293319&amp;ei=OD82XOLFMIOG8gSl0rCwBA&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmst3kofficial%3Fsub_confirmation%3D1&amp;a-v=8_XJOLKVIc4&amp;l-class=5" itct="CAIQs-UBGP___________wEiEwjiwcHxq-HfAhUDg5wKHSUpDEYo-B0yAml2SM7D1JSLp_L68wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.68000" y="61.26800" w="34.66700" h="10.74600" t="0:44.416"/>
+      <rectRegion x="51.68000" y="61.26800" w="34.66700" h="10.74600" t="0:49.435"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/mst3kofficial?annotation_id=annotation_209293319&amp;ei=OD82XOLFMIOG8gSl0rCwBA&amp;feature=iv&amp;src_vid=8_XJOLKVIc4&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2103807329" type="highlight" log_data="a-id=annotation_2103807329&amp;ei=OD82XOLFMIOG8gSl0rCwBA&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMUg83dKDxw4%26list%3DPLYy4ZargUludqHehXeWad6RMNWfCZqXFH&amp;a-v=8_XJOLKVIc4&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwjiwcHxq-HfAhUDg5wKHSUpDEYo-B0yAml2SM7D1JSLp_L68wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.25200" y="44.21100" w="35.23000" h="11.29600" t="0:44.416"/>
+      <rectRegion x="51.25200" y="44.21100" w="35.23000" h="11.29600" t="0:49.435"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2103807329&amp;ei=OD82XOLFMIOG8gSl0rCwBA&amp;feature=iv&amp;list=PLYy4ZargUludqHehXeWad6RMNWfCZqXFH&amp;src_vid=8_XJOLKVIc4&amp;v=MUg83dKDxw4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2263860459" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_209293319">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_209293319" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2848549053" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1024882455">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1024882455" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3132030455" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2103807329">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2103807329" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:2f982d52-8a63-49cd-8d5a-1ebf4c523b26" style="branding" type="branding"
+            log_data="a-id=2f982d52-8a63-49cd-8d5a-1ebf4c523b26&amp;ei=OD82XOLFMIOG8gSl0rCwBA&amp;a-v=8_XJOLKVIc4&amp;a-type=10&amp;link-id=UCFzph9x-n9FR52BI94Zfgww&amp;xble=0&amp;l-class=3&amp;a-ch=UCFzph9x-n9FR52BI94Zfgww">
+  <data>{&quot;start_ms&quot;:5000,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbFFJRzhWdldIS1A3aC1yczVtTTVDdmRqUU5QUXxBQ3Jtc0trTGp2V0FDVTZUTEdnUE1Nd0h3Ny13ZUJwTFNqcEo4WTI2X1hBWnE0QXNDUDNsblpfRFRfWEV6dXRWbWU5NTctSjJQMUlISmhTVG11aHA3VkR2TDlMMnl5aVgwcGRySWs3eU4zODVzeFJtdzJyU1RoZ1JydS1MS0gxT2dWSE1VTG9zc0IydGd6WktNQzdOR0IzaHJrSFlHVjB2R2JqWHpzeGQ5RUJ2Rjl4bXNNRG5BMnVfLWFKWTBSWlNfNGdLTUtETWJyYUpFSnNJYmhfaEp0WnhwcWhkVVEyMjQ1dWRzazRpUWlYaWRwRldrU3I4MXZ3%26hl%3Den%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fmst3kofficial\u0026hl=en&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;124K&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;124K&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;channel_id&quot;:&quot;UCFzph9x-n9FR52BI94Zfgww&quot;,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;OD82XOLFMIOG8gSl0rCwBA&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCOLBwfGr4d8CFQODnAodJSkMRij4HTICaXZIzsPUlIun8vrzAQ&quot;,&quot;src_vid&quot;:&quot;8_XJOLKVIc4&quot;,&quot;annotation_id&quot;:&quot;2f982d52-8a63-49cd-8d5a-1ebf4c523b26&quot;},&quot;image_height&quot;:39,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/Fzph9x-n9FR52BI94Zfgww\/featured_channel.jpg?v=59c55c61&quot;,&quot;num_subscribers&quot;:&quot;124755&quot;,&quot;channel_name&quot;:&quot;MYSTERY SCIENCE THEATER 3000&quot;,&quot;end_ms&quot;:50000,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/mst3kofficial"/>
+  </action>
+</annotation></annotations></document>

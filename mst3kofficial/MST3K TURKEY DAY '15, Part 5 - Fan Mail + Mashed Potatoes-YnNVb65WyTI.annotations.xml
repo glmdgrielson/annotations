@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIr8aq6avh3wIVTdHBCh0T7wOPKPgdMgJpdkiyktvy-q3VuWI">
+<annotation id="annotation_1040929637" type="highlight" log_data="xble=1&amp;l-class=8&amp;a-id=annotation_1040929637&amp;a-v=YnNVb65WyTI&amp;link=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fmst3k%2Fbringbackmst3k&amp;a-type=3&amp;ei=Jz82XO-WJ82ihwaT3o_4CA" itct="CAEQs-UBGP___________wEiEwivxqrpq-HfAhVN0cEKHRPvA48o-B0yAml2SLKS2_L6rdW5Yg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.50600" y="77.50700" w="78.69800" h="15.52600" t="0:39.741"/>
+      <rectRegion x="11.50600" y="77.50700" w="78.69800" h="15.52600" t="1:02.954"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.kickstarter.com/projects/mst3k/bringbackmst3k" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1553040349" type="highlight" log_data="xble=1&amp;l-class=8&amp;a-id=annotation_1553040349&amp;a-v=YnNVb65WyTI&amp;link=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fmst3k%2Fbringbackmst3k&amp;a-type=3&amp;ei=Jz82XO-WJ82ihwaT3o_4CA" itct="CAIQs-UBGP___________wEiEwivxqrpq-HfAhVN0cEKHRPvA48o-B0yAml2SLKS2_L6rdW5Yg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="8.39900" y="70.42300" w="79.51700" h="25.23900" t="10:39.935"/>
+      <rectRegion x="8.39900" y="70.42300" w="79.51700" h="25.23900" t="10:56.465"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.kickstarter.com/projects/mst3k/bringbackmst3k" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1769199187" type="highlight" log_data="xble=1&amp;l-class=8&amp;a-id=annotation_1769199187&amp;a-v=YnNVb65WyTI&amp;link=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fmst3k%2Fbringbackmst3k&amp;a-type=3&amp;ei=Jz82XO-WJ82ihwaT3o_4CA" itct="CAMQs-UBGP___________wEiEwivxqrpq-HfAhVN0cEKHRPvA48o-B0yAml2SLKS2_L6rdW5Yg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.80300" y="47.04200" w="90.55900" h="33.12800" t="8:21.023"/>
+      <rectRegion x="3.80300" y="47.04200" w="90.55900" h="33.12800" t="8:45.327"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.kickstarter.com/projects/mst3k/bringbackmst3k" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1893582159" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1040929637">
+    <movingRegion type="rect">
+      <rectRegion x="-26.24800" y="41.35400" w="79.51700" h="15.57700" t="never"/>
+      <rectRegion x="-26.24800" y="41.35400" w="79.51700" h="15.57700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1040929637" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2125880429" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1769199187">
+    <movingRegion type="rect">
+      <rectRegion x="-7.70600" y="31.49500" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-7.70600" y="31.49500" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1769199187" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4196222605" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1553040349">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1553040349" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_51600551" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_82640971">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_82640971" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_82640971" type="highlight" log_data="xble=1&amp;l-class=8&amp;a-id=annotation_82640971&amp;a-v=YnNVb65WyTI&amp;link=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fmst3k%2Fbringbackmst3k&amp;a-type=3&amp;ei=Jz82XO-WJ82ihwaT3o_4CA" itct="CAQQs-UBGP___________wEiEwivxqrpq-HfAhVN0cEKHRPvA48o-B0yAml2SLKS2_L6rdW5Yg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.98700" y="7.60600" w="27.69400" h="64.11300" t="2:49.861"/>
+      <rectRegion x="67.98700" y="7.60600" w="27.69400" h="64.11300" t="2:55.281"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.kickstarter.com/projects/mst3k/bringbackmst3k" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:2f982d52-8a63-49cd-8d5a-1ebf4c523b26" style="branding" type="branding"
+            log_data="xble=0&amp;l-class=3&amp;a-id=2f982d52-8a63-49cd-8d5a-1ebf4c523b26&amp;a-v=YnNVb65WyTI&amp;a-type=10&amp;link-id=UCFzph9x-n9FR52BI94Zfgww&amp;ei=Jz82XO-WJ82ihwaT3o_4CA&amp;a-ch=UCFzph9x-n9FR52BI94Zfgww">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;124K&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=en\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fmst3kofficial%26feature%3Div%26app%3Ddesktop%26continue_action%3DQUFFLUhqblFfd2s0b0RZOGktNW9JdkRqNkx0V3FKdTdmd3xBQ3Jtc0ttLVNVSFdkcHN3UlBZVzZlX0RpV2JsQWNEVmtzek51aFhxQWM5VTJsUWVPTElBbkZfTmhLTnVqbnU3bzBVeTZ6NTNlTllFMUxkUzJMWlhyODVESWhjYThQUTJUWTkzTzZUOU82REtTdUMyMWR0MUpINHFKWWFYWjA5MmxHcGJrWWdXYUUzWHVMd2NnamJKcURHV25OZC1xdDlZeHR0aTBSMkRGY1RGRWo5Y0Q3SVBSX3FBVUpLUUc0dTVKMXBxNkdsTkZVLWUxUUc2cTJsYWdhdGk3ZDF1SDNyOXJBNEJ5S28xYW44NG0zTXBmRTcwdm9n%26action_handle_signin%3Dtrue\u0026passive=true&quot;,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;124K&quot;},&quot;end_ms&quot;:689000,&quot;image_width&quot;:40,&quot;image_height&quot;:39,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UCFzph9x-n9FR52BI94Zfgww&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/Fzph9x-n9FR52BI94Zfgww\/featured_channel.jpg?v=59c55c61&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;2f982d52-8a63-49cd-8d5a-1ebf4c523b26&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCK_Gqumr4d8CFU3RwQodE-8Djyj4HTICaXZIspLb8vqt1bli&quot;,&quot;ei&quot;:&quot;Jz82XO-WJ82ihwaT3o_4CA&quot;,&quot;src_vid&quot;:&quot;YnNVb65WyTI&quot;},&quot;start_ms&quot;:5000,&quot;num_subscribers&quot;:&quot;124755&quot;,&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;MYSTERY SCIENCE THEATER 3000&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/mst3kofficial"/>
+  </action>
+</annotation>
+<annotation id="video:f919bac9-3206-4323-9ff4-8ebf6ef7033c" style="simple" type="card" log_data="a-ch=UCFzph9x-n9FR52BI94Zfgww&amp;a-id=f919bac9-3206-4323-9ff4-8ebf6ef7033c&amp;a-type=61&amp;a-v=YnNVb65WyTI&amp;ei=Jz82XO-WJ82ihwaT3o_4CA&amp;l-class=8&amp;link=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fmst3k%2Fbringbackmst3k&amp;xble=0">
+  <data>{&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAoQ1TYY____________ASITCK_Gqumr4d8CFU3RwQodE-8Djyj4HTIFY2FyZHNIspLb8vqt1bli&quot;,&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwivxqrpq-HfAhVN0cEKHRPvA48o-B0yBWNhcmRzSLKS2_L6rdW5Yg&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCK_Gqumr4d8CFU3RwQodE-8Djyj4HTIFY2FyZHNIspLb8vqt1bli&quot;},&quot;end_ms&quot;:37815,&quot;target&quot;:&quot;new&quot;,&quot;url&quot;:&quot;\/redirect?redir_token=Lp6718mzh1_1VhlKhj2tG34MyHZ8MTU0NzE0NTM4M0AxNTQ3MDU4OTgz\u0026q=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fmst3k%2Fbringbackmst3k\u0026event=infocard&quot;,&quot;start_ms&quot;:37815,&quot;sponsored&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;show_link_icon&quot;:true,&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/YnNVb65WyTI\/f919bac9-3206-4323-9ff4-8ebf6ef7033c_mq.jpg?v=56595e72&quot;,&quot;meta_info&quot;:[],&quot;display_domain&quot;:&quot;kickstarter.com&quot;,&quot;title&quot;:&quot;Help Us Bring Back MST3K!&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;f919bac9-3206-4323-9ff4-8ebf6ef7033c&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCK_Gqumr4d8CFU3RwQodE-8Djyj4HTIFY2FyZHNIspLb8vqt1bli&quot;,&quot;ei&quot;:&quot;Jz82XO-WJ82ihwaT3o_4CA&quot;,&quot;src_vid&quot;:&quot;YnNVb65WyTI&quot;},&quot;custom_message&quot;:&quot;CONTRIBUTE NOW!&quot;,&quot;teaser_text&quot;:&quot;Help #BringBackMST3K Now!&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;simple&quot;,&quot;timestamp&quot;:1448697459447}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=Lp6718mzh1_1VhlKhj2tG34MyHZ8MTU0NzE0NTM4M0AxNTQ3MDU4OTgz&amp;q=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fmst3k%2Fbringbackmst3k&amp;event=infocard"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwivxqrpq+HfAhVN0cEKHRPvA48o+B0yBWNhcmRzSLKS2/L6rdW5Yg==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwivxqrpq+HfAhVN0cEKHRPvA48o+B0yBWNhcmRzSLKS2/L6rdW5Yg==&quot;, 
+  &quot;eventId&quot;: &quot;Jz82XO-WJ82ihwaT3o_4CA&quot;, 
+  &quot;headerText&quot;: &quot;From MYSTERY SCIENCE THEATER 3000&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCK/Gqumr4d8CFU3RwQodE+8Djyj4HTIFY2FyZHNIspLb8vqt1bli&quot;
+}</data>
+</annotation>
+</annotations></document>
