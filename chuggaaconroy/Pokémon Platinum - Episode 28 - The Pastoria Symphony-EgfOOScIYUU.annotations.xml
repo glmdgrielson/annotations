@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIoPLRiPjg3wIVBoGcCh3t2gP9KPgdMgJpdkjFwqG4ksfzgxI">
+<annotation id="annotation_258013659" type="text" style="popup" log_data="a-type=1&amp;a-v=EgfOOScIYUU&amp;xble=1&amp;ei=4gg2XKD5J4aC8gTttY_oDw&amp;a-id=annotation_258013659" itct="CAEQs-UBGP___________wEiEwig8tGI-ODfAhUGgZwKHe3aA_0o-B0yAml2SMXCobiSx_ODEg">
+  <TEXT>The top encounter is supposed to read &quot;Quagsire,&quot; it&#39;s rather contradictory!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="76.07000" y="38.59200" w="23.97100" h="24.09200" t="15:47.557"/>
+      <rectRegion x="76.07000" y="38.59200" w="23.97100" h="24.09200" t="16:29.500"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3444054545" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_908011855">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.15500" w="25.47500" h="6.56700" t="never"/>
+      <rectRegion x="0.00000" y="29.15500" w="25.47500" h="6.56700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_908011855" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4044137095" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4137015915">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4137015915" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4137015915" type="highlight" log_data="l-class=1&amp;xble=1&amp;a-type=3&amp;a-id=annotation_4137015915&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDn3lX9FVkC0%26list%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX%26index%3D29&amp;a-v=EgfOOScIYUU&amp;ei=4gg2XKD5J4aC8gTttY_oDw" itct="CAIQs-UBGP___________wEiEwig8tGI-ODfAhUGgZwKHe3aA_0o-B0yAml2SMXCobiSx_ODEg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.41800" y="2.81700" w="15.96700" h="6.36600" t="25:02.600"/>
+      <rectRegion x="56.41800" y="2.81700" w="15.96700" h="6.36600" t="25:18.932"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_4137015915&amp;ei=4gg2XKD5J4aC8gTttY_oDw&amp;feature=iv&amp;index=29&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=EgfOOScIYUU&amp;v=Dn3lX9FVkC0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_908011855" type="highlight" log_data="l-class=2&amp;xble=1&amp;a-type=3&amp;a-id=annotation_908011855&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;a-v=EgfOOScIYUU&amp;ei=4gg2XKD5J4aC8gTttY_oDw" itct="CAMQs-UBGP___________wEiEwig8tGI-ODfAhUGgZwKHe3aA_0o-B0yAml2SMXCobiSx_ODEg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.35700" y="2.81700" w="15.80800" h="6.08500" t="25:02.600"/>
+      <rectRegion x="25.35700" y="2.81700" w="15.80800" h="6.08500" t="25:18.932"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_908011855&amp;ei=4gg2XKD5J4aC8gTttY_oDw&amp;feature=iv&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=EgfOOScIYUU" link_class="2"/>
+  </action>
+
+</annotation>
+</annotations></document>

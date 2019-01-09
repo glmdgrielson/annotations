@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkN7rqPvg3wIVZ9HBCh0qSw8fKPgdMgJpdkjqxqSaxaim2ZkB">
+<annotation id="annotation_187032" type="highlight" log_data="a-type=3&amp;a-v=mbKZRFNJI2o&amp;xble=1&amp;ei=Sww2XNCMHueihwaqlr34AQ&amp;a-id=annotation_187032" itct="CAEQs-UBGP___________wEiEwiQ3uuo--DfAhVn0cEKHSpLDx8o-B0yAml2SOrGpJrFqKbZmQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.71900" y="8.88900" w="42.65600" h="5.55600" t="0:15:57.1"/>
+      <rectRegion x="51.71900" y="8.88900" w="42.65600" h="5.55600" t="0:16:24.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+</annotation>
+
+<annotation id="annotation_231181" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_187032">
+    <movingRegion type="rect">
+      <rectRegion x="25.00000" y="0.55600" w="23.28100" h="5.55600" t="never"/>
+      <rectRegion x="25.00000" y="0.55600" w="23.28100" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_187032" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_275915" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_438774">
+    <movingRegion type="rect">
+      <rectRegion x="31.09400" y="0.00000" w="12.18800" h="5.55600" t="never"/>
+      <rectRegion x="31.09400" y="0.00000" w="12.18800" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_438774" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_365781" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTheRunawayGuys&amp;a-type=3&amp;l-class=3&amp;xble=1&amp;ei=Sww2XNCMHueihwaqlr34AQ&amp;a-id=annotation_365781&amp;a-v=mbKZRFNJI2o" itct="CAIQs-UBGP___________wEiEwiQ3uuo--DfAhVn0cEKHSpLDx8o-B0yAml2SOrGpJrFqKbZmQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="74.37500" y="34.72200" w="25.62500" h="8.05600" t="0:15:57.1"/>
+      <rectRegion x="74.37500" y="34.72200" w="25.62500" h="8.05600" t="0:16:24.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TheRunawayGuys?annotation_id=annotation_365781&amp;ei=Sww2XNCMHueihwaqlr34AQ&amp;feature=iv&amp;src_vid=mbKZRFNJI2o" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_371568" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_365781">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="-6.11100" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="-6.11100" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_365781" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_438774" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXRODt7H_8Q7EC9tDsvlg7Ch9&amp;a-type=3&amp;l-class=2&amp;xble=1&amp;ei=Sww2XNCMHueihwaqlr34AQ&amp;a-id=annotation_438774&amp;a-v=mbKZRFNJI2o" itct="CAMQs-UBGP___________wEiEwiQ3uuo--DfAhVn0cEKHSpLDx8o-B0yAml2SOrGpJrFqKbZmQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.46900" y="8.88900" w="45.62500" h="5.55600" t="0:15:57.1"/>
+      <rectRegion x="5.46900" y="8.88900" w="45.62500" h="5.55600" t="0:16:24.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_438774&amp;ei=Sww2XNCMHueihwaqlr34AQ&amp;feature=iv&amp;list=PL_sYhAj0WXRODt7H_8Q7EC9tDsvlg7Ch9&amp;src_vid=mbKZRFNJI2o" link_class="2"/>
+  </action>
+
+</annotation>
+</annotations></document>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMImZLGzPjg3wIViNTBCh2GewGtKPgdMgJpdkjqy5qLkeOJwWk">
+<annotation id="annotation_1879050391" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_874912127">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_874912127" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3422021801" type="text" style="popup" log_data="ei=cQk2XNmVBIiphwaG94XoCg&amp;xble=1&amp;a-type=1&amp;a-id=annotation_3422021801&amp;a-v=aYInGRFmpeo" itct="CAEQs-UBGP___________wEiEwiZksbM-ODfAhWI1MEKHYZ7Aa0o-B0yAml2SOrLmouR44nBaQ">
+  
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.63700" y="3.09900" w="15.10300" h="8.04200" t="26:50.400"/>
+      <rectRegion x="58.63700" y="3.09900" w="15.10300" h="8.04200" t="27:11.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3825720377" type="text" style="popup" log_data="ei=cQk2XNmVBIiphwaG94XoCg&amp;xble=1&amp;a-type=1&amp;a-id=annotation_3825720377&amp;a-v=aYInGRFmpeo" itct="CAIQs-UBGP___________wEiEwiZksbM-ODfAhWI1MEKHYZ7Aa0o-B0yAml2SOrLmouR44nBaQ">
+  <TEXT>Updates are taking a break for a few days due to technical problems preventing me from recording more videos.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="19.33400" y="78.87300" w="61.37200" h="12.54300" t="0:00.584"/>
+      <rectRegion x="19.33400" y="78.87300" w="61.37200" h="12.54300" t="0:12.100"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="4210330" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_874912127" type="highlight" log_data="a-type=3&amp;a-id=annotation_874912127&amp;ei=cQk2XNmVBIiphwaG94XoCg&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXRM5w3LkVEVGE_7dbvf4n41S&amp;a-v=aYInGRFmpeo&amp;l-class=2" itct="CAMQs-UBGP___________wEiEwiZksbM-ODfAhWI1MEKHYZ7Aa0o-B0yAml2SOrLmouR44nBaQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.99000" y="3.38000" w="14.69900" h="7.21100" t="26:50.400"/>
+      <rectRegion x="25.99000" y="3.38000" w="14.69900" h="7.21100" t="27:11.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_874912127&amp;ei=cQk2XNmVBIiphwaG94XoCg&amp;feature=iv&amp;list=PL_sYhAj0WXRM5w3LkVEVGE_7dbvf4n41S&amp;src_vid=aYInGRFmpeo" link_class="2"/>
+  </action>
+
+</annotation>
+</annotations></document>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIt-iEsPjg3wIV8MXBCh2LDwzwKPgdMgJpdkirpqmlhv7U96sB">
+<annotation id="annotation_1366077019" type="highlight" log_data="a-type=3&amp;l-class=2&amp;xble=1&amp;a-id=annotation_1366077019&amp;a-v=q-9T8GSqUys&amp;ei=NQk2XPf5EPCLhwaLn7CADw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX" itct="CAEQs-UBGP___________wEiEwi36ISw-ODfAhXwxcEKHYsPDPAo-B0yAml2SKumqaWG_tT3qwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.88600" y="1.97200" w="26.26800" h="8.90100" t="20:07.600"/>
+      <rectRegion x="11.88600" y="1.97200" w="26.26800" h="8.90100" t="20:29.472"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_1366077019&amp;ei=NQk2XPf5EPCLhwaLn7CADw&amp;feature=iv&amp;list=PL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX&amp;src_vid=q-9T8GSqUys" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1398333611" type="highlight" log_data="a-type=3&amp;l-class=1&amp;xble=1&amp;a-id=annotation_1398333611&amp;a-v=q-9T8GSqUys&amp;ei=NQk2XPf5EPCLhwaLn7CADw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuxfnAVAL9_4%26list%3DPL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX%26index%3D17" itct="CAIQs-UBGP___________wEiEwi36ISw-ODfAhXwxcEKHYsPDPAo-B0yAml2SKumqaWG_tT3qwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.34200" y="2.53500" w="26.42600" h="8.33800" t="20:07.600"/>
+      <rectRegion x="64.34200" y="2.53500" w="26.42600" h="8.33800" t="20:29.472"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1398333611&amp;ei=NQk2XPf5EPCLhwaLn7CADw&amp;feature=iv&amp;index=17&amp;list=PL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX&amp;src_vid=q-9T8GSqUys&amp;v=uxfnAVAL9_4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3779191597" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1398333611">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1398333611" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4034128219" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1366077019">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1366077019" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4178615189" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=q-9T8GSqUys&amp;ei=NQk2XPf5EPCLhwaLn7CADw&amp;a-id=annotation_4178615189" itct="CAMQs-UBGP___________wEiEwi36ISw-ODfAhXwxcEKHYsPDPAo-B0yAml2SKumqaWG_tT3qwE">
+  <TEXT>After Monday&#39;s update, regular updates will be taking a hiatus for about a week and a half. I&#39;ll be recording time-sensitive videos with the other Runaway Guys and won&#39;t have enough time to work on my own videos.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.94600" y="3.66200" w="74.20900" h="17.61300" t="0:00.000"/>
+      <rectRegion x="13.94600" y="3.66200" w="74.20900" h="17.61300" t="0:15.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

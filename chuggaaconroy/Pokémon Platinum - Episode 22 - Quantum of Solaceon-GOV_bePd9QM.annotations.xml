@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIveG1kfjg3wIVZrmcCh23kgfiKPgdMgJpdkiD6vee3u3f8hg">
+<annotation id="annotation_1207693251" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2517589717">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2517589717" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2473256495" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;xble=1&amp;ei=9Qg2XP2SBOby8gS3pZ6QDg&amp;a-id=annotation_2473256495&amp;a-type=3&amp;l-class=2&amp;a-v=GOV_bePd9QM" itct="CAEQs-UBGP___________wEiEwi94bWR-ODfAhVmuZwKHbeSB-Io-B0yAml2SIPq957e7d_yGA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.19800" y="2.53500" w="16.60100" h="6.36600" t="25:15.600"/>
+      <rectRegion x="25.19800" y="2.53500" w="16.60100" h="6.36600" t="25:41.896"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_2473256495&amp;ei=9Qg2XP2SBOby8gS3pZ6QDg&amp;feature=iv&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=GOV_bePd9QM" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2508256571" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2473256495">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2473256495" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2517589717" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdxRzwReCQQg%26list%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX%26index%3D23&amp;xble=1&amp;ei=9Qg2XP2SBOby8gS3pZ6QDg&amp;a-id=annotation_2517589717&amp;a-type=3&amp;l-class=1&amp;a-v=GOV_bePd9QM" itct="CAIQs-UBGP___________wEiEwi94bWR-ODfAhVmuZwKHbeSB-Io-B0yAml2SIPq957e7d_yGA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.26000" y="2.25400" w="16.60100" h="6.36600" t="25:15.600"/>
+      <rectRegion x="56.26000" y="2.25400" w="16.60100" h="6.36600" t="25:41.896"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2517589717&amp;ei=9Qg2XP2SBOby8gS3pZ6QDg&amp;feature=iv&amp;index=23&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=GOV_bePd9QM&amp;v=dxRzwReCQQg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3866098279" type="text" style="popup" log_data="ei=9Qg2XP2SBOby8gS3pZ6QDg&amp;a-id=annotation_3866098279&amp;a-v=GOV_bePd9QM&amp;a-type=1&amp;xble=1" itct="CAMQs-UBGP___________wEiEwi94bWR-ODfAhVmuZwKHbeSB-Io-B0yAml2SIPq957e7d_yGA">
+  <TEXT>Funnily, it&#39;s Metal Claw that has Attack up while Iron Tail is Defense down. When I said I got these attack effects mixed up, I wasn&#39;t kidding!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.79200" y="60.00000" w="72.14800" h="12.54300" t="3:13.623"/>
+      <rectRegion x="0.79200" y="60.00000" w="72.14800" h="12.54300" t="3:23.700"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="4210330" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

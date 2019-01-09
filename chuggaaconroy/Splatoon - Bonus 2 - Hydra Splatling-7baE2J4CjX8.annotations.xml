@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIscL6lvfg3wIVhbicCh2vcgTCKPgdMgJpdkj_morwiZuh2-0B">
+<annotation id="annotation_1362141773" type="highlight" log_data="ei=9Ac2XLH4DoXx8gSv5ZGQDA&amp;a-id=annotation_1362141773&amp;l-class=1&amp;xble=1&amp;a-v=7baE2J4CjX8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dnzc9aMRZLZA%26list%3DPL_sYhAj0WXRONg6qA-yPVkALd8sBi1lSh%26index%3D37&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwixwvqW9-DfAhWFuJwKHa9yBMIo-B0yAml2SP-aivCJm6Hb7QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="60.69700" y="3.94400" w="17.23500" h="6.36600" t="27:18.100"/>
+      <rectRegion x="60.69700" y="3.94400" w="17.23500" h="6.36600" t="27:38.182"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1362141773&amp;ei=9Ac2XLH4DoXx8gSv5ZGQDA&amp;feature=iv&amp;index=37&amp;list=PL_sYhAj0WXRONg6qA-yPVkALd8sBi1lSh&amp;src_vid=7baE2J4CjX8&amp;v=nzc9aMRZLZA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3152023409" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1362141773">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1362141773" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3509672409" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3905660273">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3905660273" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3905660273" type="highlight" log_data="ei=9Ac2XLH4DoXx8gSv5ZGQDA&amp;a-id=annotation_3905660273&amp;l-class=2&amp;xble=1&amp;a-v=7baE2J4CjX8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXRONg6qA-yPVkALd8sBi1lSh&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwixwvqW9-DfAhWFuJwKHa9yBMIo-B0yAml2SP-aivCJm6Hb7QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="24.40600" y="2.81700" w="18.18500" h="8.62000" t="27:18.100"/>
+      <rectRegion x="24.40600" y="2.81700" w="18.18500" h="8.62000" t="27:38.182"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_3905660273&amp;ei=9Ac2XLH4DoXx8gSv5ZGQDA&amp;feature=iv&amp;list=PL_sYhAj0WXRONg6qA-yPVkALd8sBi1lSh&amp;src_vid=7baE2J4CjX8" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3906743815" type="text" style="popup" log_data="ei=9Ac2XLH4DoXx8gSv5ZGQDA&amp;a-id=annotation_3906743815&amp;l-class=3&amp;xble=1&amp;a-v=7baE2J4CjX8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FGlitchxCity&amp;a-type=1" itct="CAMQs-UBGP___________wEiEwixwvqW9-DfAhWFuJwKHa9yBMIo-B0yAml2SP-aivCJm6Hb7QE">
+  <TEXT>GlitchxCity&#39;s Channel</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.97600" y="14.36600" w="32.21100" h="35.93000" t="27:18.100"/>
+      <rectRegion x="64.97600" y="14.36600" w="32.21100" h="35.93000" t="27:38.182"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/GlitchxCity?annotation_id=annotation_3906743815&amp;ei=9Ac2XLH4DoXx8gSv5ZGQDA&amp;feature=iv&amp;src_vid=7baE2J4CjX8" link_class="3"/>
+  </action>
+
+</annotation></annotations></document>

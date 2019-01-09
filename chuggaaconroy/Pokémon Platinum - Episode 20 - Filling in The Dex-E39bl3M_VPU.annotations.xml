@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIteLrkvjg3wIVD9zBCh0rJAXWKPgdMgJpdkj1qf2Z9_LWvxM">
+<annotation id="annotation_1438784869" type="highlight" log_data="a-v=E39bl3M_VPU&amp;a-id=annotation_1438784869&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIBbtFOPFCig%26list%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX%26index%3D21&amp;l-class=1&amp;ei=-Ag2XLWGA4-4hwaryJSwDQ" itct="CAEQs-UBGP___________wEiEwi14uuS-ODfAhUP3MEKHSskBdYo-B0yAml2SPWp_Zn38ta_Ew">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.26000" y="3.09900" w="16.60100" h="5.80300" t="26:06.900"/>
+      <rectRegion x="56.26000" y="3.09900" w="16.60100" h="5.80300" t="27:59.545"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1438784869&amp;ei=-Ag2XLWGA4-4hwaryJSwDQ&amp;feature=iv&amp;index=21&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=E39bl3M_VPU&amp;v=IBbtFOPFCig" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2737626037" type="highlight" log_data="a-v=E39bl3M_VPU&amp;a-id=annotation_2737626037&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;l-class=2&amp;ei=-Ag2XLWGA4-4hwaryJSwDQ" itct="CAIQs-UBGP___________wEiEwi14uuS-ODfAhUP3MEKHSskBdYo-B0yAml2SPWp_Zn38ta_Ew">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.35700" y="2.81700" w="16.12500" h="5.80300" t="26:06.937"/>
+      <rectRegion x="25.35700" y="2.81700" w="16.12500" h="5.80300" t="27:59.545"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_2737626037&amp;ei=-Ag2XLWGA4-4hwaryJSwDQ&amp;feature=iv&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=E39bl3M_VPU" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3818627329" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2737626037">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2737626037" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4007101255" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1438784869">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1438784869" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_596013043" type="text" style="popup" log_data="a-v=E39bl3M_VPU&amp;a-id=annotation_596013043&amp;a-type=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTheNationalDex&amp;l-class=3&amp;ei=-Ag2XLWGA4-4hwaryJSwDQ" itct="CAMQs-UBGP___________wEiEwi14uuS-ODfAhUP3MEKHSskBdYo-B0yAml2SPWp_Zn38ta_Ew">
+  <TEXT>The Dex</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.75400" y="26.76100" w="26.19700" h="9.16900" t="26:08.039"/>
+      <rectRegion x="4.75400" y="26.76100" w="26.19700" h="9.16900" t="27:59.545"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6994293" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TheNationalDex?annotation_id=annotation_596013043&amp;ei=-Ag2XLWGA4-4hwaryJSwDQ&amp;feature=iv&amp;src_vid=E39bl3M_VPU" link_class="3"/>
+  </action>
+
+</annotation></annotations></document>

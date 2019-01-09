@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI79LQkvng3wIVS5-cCh2Qhg9dKPgdMgJpdkjPtPyN34-Zx_cB">
+<annotation id="annotation_1471496617" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2373044869">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2373044869" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2035322137" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2321500547">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2321500547" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2184994593" type="highlight" log_data="a-v=945kffG_Gk8&amp;ei=BAo2XO_AAsu-8gSQjb7oBQ&amp;a-id=annotation_2184994593&amp;l-class=2&amp;xble=1&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXRM2_xfO1O6P040gwIwlhqcP" itct="CAEQs-UBGP___________wEiEwjv0tCS-eDfAhVLn5wKHZCGD10o-B0yAml2SM-0_I3fj5nH9wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.60900" y="0.56300" w="26.90100" h="7.19800" t="36:13.105"/>
+      <rectRegion x="36.60900" y="0.56300" w="26.90100" h="7.19800" t="40:56.067"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_2184994593&amp;ei=BAo2XO_AAsu-8gSQjb7oBQ&amp;feature=iv&amp;list=PL_sYhAj0WXRM2_xfO1O6P040gwIwlhqcP&amp;src_vid=945kffG_Gk8" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2321500547" type="highlight" log_data="a-v=945kffG_Gk8&amp;ei=BAo2XO_AAsu-8gSQjb7oBQ&amp;a-id=annotation_2321500547&amp;l-class=1&amp;xble=1&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvNsvcCk1dic" itct="CAIQs-UBGP___________wEiEwjv0tCS-eDfAhVLn5wKHZCGD10o-B0yAml2SM-0_I3fj5nH9wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.20600" y="0.84500" w="26.58500" h="6.08500" t="36:13.100"/>
+      <rectRegion x="70.20600" y="0.84500" w="26.58500" h="6.08500" t="40:56.067"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2321500547&amp;ei=BAo2XO_AAsu-8gSQjb7oBQ&amp;feature=iv&amp;src_vid=945kffG_Gk8&amp;v=vNsvcCk1dic" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2373044869" type="highlight" log_data="a-v=945kffG_Gk8&amp;ei=BAo2XO_AAsu-8gSQjb7oBQ&amp;a-id=annotation_2373044869&amp;l-class=1&amp;xble=1&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4W806P34i8I" itct="CAMQs-UBGP___________wEiEwjv0tCS-eDfAhVLn5wKHZCGD10o-B0yAml2SM-0_I3fj5nH9wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.96200" y="0.28200" w="26.58500" h="6.93000" t="36:13.105"/>
+      <rectRegion x="3.96200" y="0.28200" w="26.58500" h="6.93000" t="40:56.067"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2373044869&amp;ei=BAo2XO_AAsu-8gSQjb7oBQ&amp;feature=iv&amp;src_vid=945kffG_Gk8&amp;v=4W806P34i8I" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_550641617" type="text" style="popup" log_data="ei=BAo2XO_AAsu-8gSQjb7oBQ&amp;a-id=annotation_550641617&amp;a-type=1&amp;a-v=945kffG_Gk8&amp;xble=1" itct="CAQQs-UBGP___________wEiEwjv0tCS-eDfAhVLn5wKHZCGD10o-B0yAml2SM-0_I3fj5nH9wE">
+  <TEXT>Apparently according to you guys, I didn&#39;t need to swim this at all. I&#39;ve heard from countless people that the map auto-fills after discovering every location. Yet, I swore I discovered everything in Mechonis Field and still didn&#39;t have the basement filled in. Turns out, it was the door to the next area that I wasn&#39;t thinking about and hadn&#39;t discovered.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="39.15500" w="100.00000" h="20.43700" t="33:40.503"/>
+      <rectRegion x="0.00000" y="39.15500" w="100.00000" h="20.43700" t="33:56.300"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="4210330" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_674823215" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2184994593">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2184994593" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

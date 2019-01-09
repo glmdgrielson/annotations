@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8vy30_jg3wIVlcmcCh1-LAHrKPgdMgJpdkjc1rXHvLvayqcB">
+<annotation id="annotation_1699228901" type="highlight" log_data="a-id=annotation_1699228901&amp;ei=fwk2XLLBH5WT8wT-2ITYDg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXRM5w3LkVEVGE_7dbvf4n41S&amp;a-v=p5Vp28jta1w&amp;xble=1&amp;l-class=2" itct="CAEQs-UBGP___________wEiEwjy_LfT-ODfAhWVyZwKHX4sAeso-B0yAml2SNzWtce8u9rKpwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.83200" y="2.81700" w="15.01600" h="7.77500" t="16:32.000"/>
+      <rectRegion x="25.83200" y="2.81700" w="15.01600" h="7.77500" t="17:05.276"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_1699228901&amp;ei=fwk2XLLBH5WT8wT-2ITYDg&amp;feature=iv&amp;list=PL_sYhAj0WXRM5w3LkVEVGE_7dbvf4n41S&amp;src_vid=p5Vp28jta1w" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1845708285" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_35029761">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_35029761" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2083733853" type="text" style="popup" log_data="a-id=annotation_2083733853&amp;ei=fwk2XLLBH5WT8wT-2ITYDg&amp;a-v=p5Vp28jta1w&amp;a-type=1&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjy_LfT-ODfAhWVyZwKHX4sAeso-B0yAml2SNzWtce8u9rKpwE">
+  <TEXT>This is where the bros discover Peach&#39;s voice was never stolen, but I still find it curious that nothing was hidden here and it&#39;s otherwise without purpose. I mean, that scene could have been in the throne room and nothing would have changed.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="8.24100" y="79.15500" w="83.55800" h="17.04200" t="0:41.600"/>
+      <rectRegion x="8.24100" y="79.15500" w="83.55800" h="17.04200" t="0:50.600"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6994293" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_35029761" type="highlight" log_data="a-id=annotation_35029761&amp;ei=fwk2XLLBH5WT8wT-2ITYDg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3_JO8OcxX-U%26list%3DPL_sYhAj0WXRM5w3LkVEVGE_7dbvf4n41S%26index%3D25&amp;a-v=p5Vp28jta1w&amp;xble=1&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwjy_LfT-ODfAhWVyZwKHX4sAeso-B0yAml2SNzWtce8u9rKpwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.79600" y="3.09900" w="14.85700" h="7.49300" t="16:32.000"/>
+      <rectRegion x="58.79600" y="3.09900" w="14.85700" h="7.49300" t="17:05.276"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_35029761&amp;ei=fwk2XLLBH5WT8wT-2ITYDg&amp;feature=iv&amp;index=25&amp;list=PL_sYhAj0WXRM5w3LkVEVGE_7dbvf4n41S&amp;src_vid=p5Vp28jta1w&amp;v=3_JO8OcxX-U" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4023117505" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1699228901">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1699228901" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

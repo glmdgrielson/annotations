@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIk5iBvvjg3wIVBt9gCh2nwA9RKPgdMgJpdkiau934i9q7nX0">
+<annotation id="annotation_1746747355" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1966113269">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1966113269" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1966113269" type="highlight" log_data="l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmPlt_VR6GO8%26list%3DPL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX%26index%3D6&amp;xble=1&amp;a-id=annotation_1966113269&amp;a-v=fTru0L8XXZo&amp;a-type=3&amp;ei=Ugk2XJOnI4a-gwOngb-IBQ" itct="CAEQs-UBGP___________wEiEwiTmIG--ODfAhUG32AKHafAD1Eo-B0yAml2SJq73fiL2rudfQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.34200" y="3.09900" w="26.42600" h="8.05600" t="28:55.300"/>
+      <rectRegion x="64.34200" y="3.09900" w="26.42600" h="8.05600" t="29:13.477"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1966113269&amp;ei=Ugk2XJOnI4a-gwOngb-IBQ&amp;feature=iv&amp;index=6&amp;list=PL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX&amp;src_vid=fTru0L8XXZo&amp;v=mPlt_VR6GO8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2727617843" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3942670433">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3942670433" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2861984055" type="text" style="popup" log_data="a-id=annotation_2861984055&amp;a-type=1&amp;xble=1&amp;a-v=fTru0L8XXZo&amp;ei=Ugk2XJOnI4a-gwOngb-IBQ" itct="CAIQs-UBGP___________wEiEwiTmIG--ODfAhUG32AKHafAD1Eo-B0yAml2SJq73fiL2rudfQ">
+  <TEXT>Wrong portrait! Some programmer was eating a sandwich!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.31200" y="56.62000" w="65.49200" h="8.03600" t="1:32.700"/>
+      <rectRegion x="13.31200" y="56.62000" w="65.49200" h="8.03600" t="1:38.700"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3942670433" type="highlight" log_data="l-class=2&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX&amp;xble=1&amp;a-id=annotation_3942670433&amp;a-v=fTru0L8XXZo&amp;a-type=3&amp;ei=Ugk2XJOnI4a-gwOngb-IBQ" itct="CAMQs-UBGP___________wEiEwiTmIG--ODfAhUG32AKHafAD1Eo-B0yAml2SJq73fiL2rudfQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.56900" y="2.25400" w="26.42600" h="8.90100" t="28:55.300"/>
+      <rectRegion x="11.56900" y="2.25400" w="26.42600" h="8.90100" t="29:13.430"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_3942670433&amp;ei=Ugk2XJOnI4a-gwOngb-IBQ&amp;feature=iv&amp;list=PL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX&amp;src_vid=fTru0L8XXZo" link_class="2"/>
+  </action>
+
+</annotation>
+</annotations></document>

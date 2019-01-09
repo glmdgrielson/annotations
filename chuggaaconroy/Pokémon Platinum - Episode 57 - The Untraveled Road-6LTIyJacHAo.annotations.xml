@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-_DL8ffg3wIVwcycCh0U4wzMKPgdMgJpdkiKuPC0iZmy2ugB">
+<annotation id="annotation_1171106283" type="text" style="popup" log_data="a-v=6LTIyJacHAo&amp;xble=1&amp;a-id=annotation_1171106283&amp;a-type=1&amp;ei=sgg2XPvPE8GZ8wSUxrPgDA" itct="CAEQs-UBGP___________wEiEwj78Mvx9-DfAhXBzJwKHRTjDMwo-B0yAml2SIq48LSJmbLa6AE">
+  <TEXT>Platinum move tutors can give
+Electivire the elemental punches,
+so it is in better shape for moves
+than what I say here!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.48700" y="59.71800" w="36.17400" h="20.71200" t="3:49.475"/>
+      <rectRegion x="3.48700" y="59.71800" w="36.17400" h="20.71200" t="4:16.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="4210330" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_1387828481" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3954195963">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3954195963" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3123419767" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3248991099">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3248991099" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3248991099" type="highlight" log_data="ei=sgg2XPvPE8GZ8wSUxrPgDA&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRD1Zn33AU-Y%26list%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX%26index%3D58&amp;a-id=annotation_3248991099&amp;a-v=6LTIyJacHAo&amp;a-type=3&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwj78Mvx9-DfAhXBzJwKHRTjDMwo-B0yAml2SIq48LSJmbLa6AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.10100" y="2.25400" w="16.44200" h="5.80300" t="18:35.000"/>
+      <rectRegion x="56.10100" y="2.25400" w="16.44200" h="5.80300" t="18:52.994"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3248991099&amp;ei=sgg2XPvPE8GZ8wSUxrPgDA&amp;feature=iv&amp;index=58&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=6LTIyJacHAo&amp;v=RD1Zn33AU-Y" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3954195963" type="highlight" log_data="ei=sgg2XPvPE8GZ8wSUxrPgDA&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;a-id=annotation_3954195963&amp;a-v=6LTIyJacHAo&amp;a-type=3&amp;l-class=2" itct="CAMQs-UBGP___________wEiEwj78Mvx9-DfAhXBzJwKHRTjDMwo-B0yAml2SIq48LSJmbLa6AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.35700" y="1.69000" w="16.28400" h="6.93000" t="18:35.000"/>
+      <rectRegion x="25.35700" y="1.69000" w="16.28400" h="6.93000" t="18:52.994"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_3954195963&amp;ei=sgg2XPvPE8GZ8wSUxrPgDA&amp;feature=iv&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=6LTIyJacHAo" link_class="2"/>
+  </action>
+
+</annotation>
+</annotations></document>

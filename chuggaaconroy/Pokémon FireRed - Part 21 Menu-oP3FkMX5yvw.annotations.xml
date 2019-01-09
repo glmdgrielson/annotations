@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzquN_P_g3wIVCfCcCh1PRQoBKPgdMgJpdkj8leevjLLx_qAB">
+<annotation id="annotation_484099" type="highlight" log_data="a-type=3&amp;ei=KxE2XI7qM4ng8wTPiqkI&amp;l-class=1&amp;a-v=oP3FkMX5yvw&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdvhhgGqfoFQ&amp;a-id=annotation_484099" itct="CAEQs-UBGP___________wEiEwjOq438_-DfAhUJ8JwKHU9FCgEo-B0yAml2SPyV56-MsvH-oAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.34400" y="0.00000" w="47.65600" h="99.72200" t="0:00:05.9"/>
+      <rectRegion x="52.34400" y="0.00000" w="47.65600" h="99.72200" t="0:01:02.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_484099&amp;ei=KxE2XI7qM4ng8wTPiqkI&amp;feature=iv&amp;src_vid=oP3FkMX5yvw&amp;v=dvhhgGqfoFQ" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_557433" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Route 12
+The Long Way
+From Lavender Town</TEXT>
+  <segment spaceRelative="annotation_484099">
+    <movingRegion type="rect">
+      <rectRegion x="16.25000" y="83.88900" w="19.53100" h="14.44400" t="never"/>
+      <rectRegion x="16.25000" y="83.88900" w="19.53100" h="14.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_484099" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_558843" type="text" style="popup" log_data="a-id=annotation_558843&amp;ei=KxE2XI7qM4ng8wTPiqkI&amp;a-v=oP3FkMX5yvw&amp;a-type=1&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjOq438_-DfAhUJ8JwKHU9FCgEo-B0yAml2SPyV56-MsvH-oAE">
+  <TEXT>...Consider this feature a &quot;preview&quot; of my next LP series.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="24.53100" y="92.77800" w="55.31300" h="7.22200" t="0:01:03.0"/>
+      <rectRegion x="24.53100" y="92.77800" w="55.31300" h="7.22200" t="0:01:04.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_761813" type="highlight" log_data="a-type=3&amp;ei=KxE2XI7qM4ng8wTPiqkI&amp;l-class=1&amp;a-v=oP3FkMX5yvw&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgvAehs3_-Ic&amp;a-id=annotation_761813" itct="CAMQs-UBGP___________wEiEwjOq438_-DfAhUJ8JwKHU9FCgEo-B0yAml2SPyV56-MsvH-oAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="50.93800" h="100.00000" t="0:00:05.4"/>
+      <rectRegion x="0.00000" y="0.00000" w="50.93800" h="100.00000" t="0:01:02.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_761813&amp;ei=KxE2XI7qM4ng8wTPiqkI&amp;feature=iv&amp;src_vid=oP3FkMX5yvw&amp;v=gvAehs3_-Ic" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_792356" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Route 17
+The Short Way
+From Celadon City</TEXT>
+  <segment spaceRelative="annotation_761813">
+    <movingRegion type="rect">
+      <rectRegion x="15.46900" y="83.33300" w="19.84400" h="14.44400" t="never"/>
+      <rectRegion x="15.46900" y="83.33300" w="19.84400" h="14.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_761813" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

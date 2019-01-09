@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI4N30vvjg3wIVAu6cCh30PAFgKPgdMgJpdkikz-jJgeLbx5AB">
+<annotation id="annotation_112018203" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=kI9vEBk6J6Q&amp;ei=VAk2XODjHILc8wT0-YSABg&amp;a-id=annotation_112018203" itct="CAEQs-UBGP___________wEiEwjg3fS--ODfAhUC7pwKHfQ8AWAo-B0yAml2SKTP6MmB4tvHkAE">
+  <TEXT>This end of day footage was from a recording I ultimately scrapped in which I showed how quickly the Armored Mawdad could be felled because I found it amusing. I accidentally used the ending footage from that, which is why Red population went up here. In the next day, it&#39;s how it should be with Rocks having a high population.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="37.46500" w="99.84200" h="20.43000" t="19:57.584"/>
+      <rectRegion x="0.00000" y="37.46500" w="99.84200" h="20.43000" t="20:13.300"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_1919524053" type="highlight" log_data="ei=VAk2XODjHILc8wT0-YSABg&amp;a-id=annotation_1919524053&amp;a-type=3&amp;a-v=kI9vEBk6J6Q&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfTru0L8XXZo%26list%3DPL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX%26index%3D4&amp;l-class=1&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjg3fS--ODfAhUC7pwKHfQ8AWAo-B0yAml2SKTP6MmB4tvHkAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.02500" y="2.53500" w="26.90200" h="8.33800" t="20:55.500"/>
+      <rectRegion x="64.02500" y="2.53500" w="26.90200" h="8.33800" t="21:13.567"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1919524053&amp;ei=VAk2XODjHILc8wT0-YSABg&amp;feature=iv&amp;index=4&amp;list=PL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX&amp;src_vid=kI9vEBk6J6Q&amp;v=fTru0L8XXZo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2794486123" type="highlight" log_data="ei=VAk2XODjHILc8wT0-YSABg&amp;a-id=annotation_2794486123&amp;a-type=3&amp;a-v=kI9vEBk6J6Q&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX&amp;l-class=2&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjg3fS--ODfAhUC7pwKHfQ8AWAo-B0yAml2SKTP6MmB4tvHkAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.72700" y="3.09900" w="26.42600" h="7.49300" t="20:55.500"/>
+      <rectRegion x="11.72700" y="3.09900" w="26.42600" h="7.49300" t="21:13.567"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_2794486123&amp;ei=VAk2XODjHILc8wT0-YSABg&amp;feature=iv&amp;list=PL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX&amp;src_vid=kI9vEBk6J6Q" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3105962619" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1919524053">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1919524053" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3386899579" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2794486123">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2794486123" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

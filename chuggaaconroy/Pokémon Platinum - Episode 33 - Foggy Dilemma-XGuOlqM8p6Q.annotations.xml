@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMImOm7hPjg3wIV7bOcCh2A_QPwKPgdMgJpdkikz_KZ6tLjtVw">
+<annotation id="annotation_1222230547" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjP0QcooN2Ao%26list%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX%26index%3D34&amp;xble=1&amp;a-type=3&amp;a-id=annotation_1222230547&amp;ei=2Qg2XNiYN-3n8gSA-4-ADw&amp;a-v=XGuOlqM8p6Q&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwiY6buE-ODfAhXts5wKHYD9A_Ao-B0yAml2SKTP8pnq0uO1XA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.26000" y="2.81700" w="15.96700" h="6.36600" t="13:32.800"/>
+      <rectRegion x="56.26000" y="2.81700" w="15.96700" h="6.36600" t="13:48.788"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1222230547&amp;ei=2Qg2XNiYN-3n8gSA-4-ADw&amp;feature=iv&amp;index=34&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=XGuOlqM8p6Q&amp;v=jP0QcooN2Ao" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1324435861" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;xble=1&amp;a-type=3&amp;a-id=annotation_1324435861&amp;ei=2Qg2XNiYN-3n8gSA-4-ADw&amp;a-v=XGuOlqM8p6Q&amp;l-class=2" itct="CAIQs-UBGP___________wEiEwiY6buE-ODfAhXts5wKHYD9A_Ao-B0yAml2SKTP8pnq0uO1XA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.35700" y="3.09900" w="16.28400" h="5.80300" t="13:32.800"/>
+      <rectRegion x="25.35700" y="3.09900" w="16.28400" h="5.80300" t="13:48.788"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_1324435861&amp;ei=2Qg2XNiYN-3n8gSA-4-ADw&amp;feature=iv&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=XGuOlqM8p6Q" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1846646287" type="text" style="popup" log_data="a-type=1&amp;xble=1&amp;a-id=annotation_1846646287&amp;a-v=XGuOlqM8p6Q&amp;ei=2Qg2XNiYN-3n8gSA-4-ADw" itct="CAMQs-UBGP___________wEiEwiY6buE-ODfAhXts5wKHYD9A_Ao-B0yAml2SKTP8pnq0uO1XA">
+  <TEXT>Since people are mentioning fog lowering in-battle accuracy, I talked about this in an earlier episode. My criticism is more that there&#39;s effectively two Flashes in this game.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.18100" y="70.14100" w="62.95700" h="17.05000" t="1:15.600"/>
+      <rectRegion x="6.18100" y="70.14100" w="62.95700" h="17.05000" t="1:30.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2470844233" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1324435861">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1324435861" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_986352961" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1222230547">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1222230547" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

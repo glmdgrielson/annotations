@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1eChp_zg3wIVyOBgCh1B4gNeKPgdMgJpdkjq9IOW2-rbtEg">
+<annotation id="annotation_157994" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_447782">
+    <movingRegion type="rect">
+      <rectRegion x="-1.25000" y="10.83300" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="-1.25000" y="10.83300" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_447782" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_419791" type="text" style="popup" log_data="ei=VA02XNXmJcjBgwPBxI_wBQ&amp;xble=1&amp;a-id=annotation_419791&amp;a-type=1&amp;a-v=SGlvVbLA-mo" itct="CAEQs-UBGP___________wEiEwjV4KGn_ODfAhXI4GAKHUHiA14o-B0yAml2SOr0g5bb6tu0SA">
+  <TEXT>Not sure what happened with the colors here, they&#39;re brighter than normal...</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.75000" y="60.83300" w="43.59400" h="13.33300" t="0:01:37.7"/>
+      <rectRegion x="53.75000" y="60.83300" w="43.59400" h="13.33300" t="0:01:44.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_447782" type="highlight" log_data="ei=VA02XNXmJcjBgwPBxI_wBQ&amp;a-v=SGlvVbLA-mo&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJ77J5JSd_5o&amp;xble=1&amp;a-id=annotation_447782&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjV4KGn_ODfAhXI4GAKHUHiA14o-B0yAml2SOr0g5bb6tu0SA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.43800" y="1.94400" w="22.50000" h="10.27800" t="0:00:00.1"/>
+      <rectRegion x="13.43800" y="1.94400" w="22.50000" h="10.27800" t="0:00:05.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_447782&amp;ei=VA02XNXmJcjBgwPBxI_wBQ&amp;feature=iv&amp;src_vid=SGlvVbLA-mo&amp;v=J77J5JSd_5o" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_699492" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_72579">
+    <movingRegion type="rect">
+      <rectRegion x="-4.06200" y="11.38900" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="-4.06200" y="11.38900" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_72579" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_701299" type="text" style="popup" log_data="ei=VA02XNXmJcjBgwPBxI_wBQ&amp;xble=1&amp;a-id=annotation_701299&amp;a-type=1&amp;a-v=SGlvVbLA-mo" itct="CAMQs-UBGP___________wEiEwjV4KGn_ODfAhXI4GAKHUHiA14o-B0yAml2SOr0g5bb6tu0SA">
+  <TEXT>This is meant to say &quot;This area is completely useless&quot;, but it&#39;s probably the funniest typo I&#39;ve made in a while!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="19.37500" y="72.50000" w="58.59400" h="13.33300" t="0:00:49.1"/>
+      <rectRegion x="19.37500" y="72.50000" w="58.59400" h="13.33300" t="0:00:54.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_72579" type="highlight" log_data="ei=VA02XNXmJcjBgwPBxI_wBQ&amp;a-v=SGlvVbLA-mo&amp;l-class=2&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLAAE4D01C615A0ABC&amp;xble=1&amp;a-id=annotation_72579&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwjV4KGn_ODfAhXI4GAKHUHiA14o-B0yAml2SOr0g5bb6tu0SA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.00000" y="1.94400" w="17.34400" h="10.55600" t="0:00:00.1"/>
+      <rectRegion x="40.00000" y="1.94400" w="17.34400" h="10.55600" t="0:00:05.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_72579&amp;ei=VA02XNXmJcjBgwPBxI_wBQ&amp;feature=iv&amp;list=PLAAE4D01C615A0ABC&amp;src_vid=SGlvVbLA-mo" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_84193" type="text" style="popup" log_data="ei=VA02XNXmJcjBgwPBxI_wBQ&amp;xble=1&amp;a-id=annotation_84193&amp;a-type=1&amp;a-v=SGlvVbLA-mo" itct="CAUQs-UBGP___________wEiEwjV4KGn_ODfAhXI4GAKHUHiA14o-B0yAml2SOr0g5bb6tu0SA">
+  <TEXT>Just in case I come back to this for other events!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="62.50000" y="0.55600" w="28.12500" h="13.33300" t="0:00:00.1"/>
+      <rectRegion x="62.50000" y="0.55600" w="28.12500" h="13.33300" t="0:00:05.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation></annotations></document>

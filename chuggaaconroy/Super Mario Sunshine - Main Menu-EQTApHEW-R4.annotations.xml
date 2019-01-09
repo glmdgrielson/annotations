@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMInsK96P_g3wIVCLWcCh3fIglHKPgdMgJpdkie8tuIx5SwghE">
+<annotation id="annotation_230620" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click this side to see individual missions on-demand.
+
+More convenient to see particular Shine Sprites, but you will miss the short visits to Delfino Plaza.</TEXT>
+  <segment spaceRelative="annotation_600949">
+    <movingRegion type="rect">
+      <rectRegion x="0.15600" y="54.72200" w="49.37500" h="19.72200" t="never"/>
+      <rectRegion x="0.15600" y="54.72200" w="49.37500" h="19.72200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_600949" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_322844" type="highlight" log_data="a-v=EQTApHEW-R4&amp;l-class=2&amp;ei=AhE2XJ65Kojq8gTfxaS4BA&amp;a-id=annotation_322844&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fview_play_list%3Fp%3DDBF53D2500EA9EC0&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiewr3o_-DfAhUItZwKHd8iCUco-B0yAml2SJ7y24jHlLCCEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="49.68800" h="100.00000" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="0.00000" w="49.68800" h="100.00000" t="0:01:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/view_play_list?annotation_id=annotation_322844&amp;ei=AhE2XJ65Kojq8gTfxaS4BA&amp;feature=iv&amp;p=DBF53D2500EA9EC0&amp;src_vid=EQTApHEW-R4" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_600949" type="highlight" log_data="a-v=EQTApHEW-R4&amp;l-class=1&amp;ei=AhE2XJ65Kojq8gTfxaS4BA&amp;a-id=annotation_600949&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DG2Rpurw8WG0&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiewr3o_-DfAhUItZwKHd8iCUco-B0yAml2SJ7y24jHlLCCEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="50.31300" y="0.27800" w="49.21900" h="99.44400" t="0:00:00.0"/>
+      <rectRegion x="50.31300" y="0.27800" w="49.21900" h="99.44400" t="0:01:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_600949&amp;ei=AhE2XJ65Kojq8gTfxaS4BA&amp;feature=iv&amp;src_vid=EQTApHEW-R4&amp;v=G2Rpurw8WG0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_607764" type="text" style="popup" log_data="a-id=annotation_607764&amp;a-type=1&amp;a-v=EQTApHEW-R4&amp;xble=1&amp;ei=AhE2XJ65Kojq8gTfxaS4BA" itct="CAMQs-UBGP___________wEiEwiewr3o_-DfAhUItZwKHd8iCUco-B0yAml2SJ7y24jHlLCCEQ">
+  <TEXT>Click the side with the viewing mode you want.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.40600" y="17.50000" w="16.71900" h="16.11100" t="0:00:00.0"/>
+      <rectRegion x="41.40600" y="17.50000" w="16.71900" h="16.11100" t="0:01:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_821260" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click this side to see the videos organized in their playlist to watch in order the old-fashioned way!</TEXT>
+  <segment spaceRelative="annotation_322844">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="59.72200" w="48.43800" h="10.00000" t="never"/>
+      <rectRegion x="0.00000" y="59.72200" w="48.43800" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_322844" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

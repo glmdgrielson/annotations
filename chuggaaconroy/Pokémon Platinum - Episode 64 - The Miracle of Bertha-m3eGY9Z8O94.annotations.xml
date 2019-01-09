@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMInqzK6_fg3wIVk-qcCh3q-A44KPgdMgJpdkje9_Czvczhu5sB">
+<annotation id="annotation_3366396347" type="highlight" log_data="l-class=2&amp;a-v=m3eGY9Z8O94&amp;ei=pQg2XN7FK5PV8wTq8bvAAw&amp;a-id=annotation_3366396347&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX" itct="CAEQs-UBGP___________wEiEwierMrr9-DfAhWT6pwKHer4Djgo-B0yAml2SN738LO9zOG7mwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.35700" y="1.97200" w="16.44200" h="6.36600" t="22:23.300"/>
+      <rectRegion x="25.35700" y="1.97200" w="16.44200" h="6.36600" t="22:34.186"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_3366396347&amp;ei=pQg2XN7FK5PV8wTq8bvAAw&amp;feature=iv&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=m3eGY9Z8O94" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3436420427" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3366396347">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="31.54900" w="21.03800" h="4.17300" t="never"/>
+      <rectRegion x="0.00000" y="31.54900" w="21.03800" h="4.17300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3366396347" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_758484117" type="text" style="popup" log_data="ei=pQg2XN7FK5PV8wTq8bvAAw&amp;a-id=annotation_758484117&amp;xble=1&amp;a-type=1&amp;a-v=m3eGY9Z8O94" itct="CAIQs-UBGP___________wEiEwierMrr9-DfAhWT6pwKHer4Djgo-B0yAml2SN738LO9zOG7mwE">
+  
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.26000" y="2.81700" w="16.52900" h="5.50700" t="22:23.300"/>
+      <rectRegion x="56.26000" y="2.81700" w="16.52900" h="5.50700" t="22:34.186"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

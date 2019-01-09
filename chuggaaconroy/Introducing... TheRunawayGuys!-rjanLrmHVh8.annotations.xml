@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI4KbT5f3g3wIVC8TBCh0cEAPYKPgdMgJpdkifrJ3M6-Wpm64B">
+<annotation id="annotation_22150" type="highlight" log_data="a-type=3&amp;a-id=annotation_22150&amp;ei=4w42XKCpNouIhwacoIzADQ&amp;a-v=rjanLrmHVh8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DTheRunawayGuys&amp;xble=1&amp;l-class=3" itct="CAEQs-UBGP___________wEiEwjgptPl_eDfAhULxMEKHRwQA9go-B0yAml2SJ-snczr5ambrgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.56300" y="0.00000" w="43.49200" h="32.66700" t="0:01:49.4"/>
+      <rectRegion x="56.56300" y="0.00000" w="43.49200" h="32.66700" t="0:02:09.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13369344" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_22150&amp;ei=4w42XKCpNouIhwacoIzADQ&amp;feature=iv&amp;src_vid=rjanLrmHVh8&amp;user=TheRunawayGuys" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_300075" type="highlight" log_data="a-type=3&amp;a-id=annotation_300075&amp;ei=4w42XKCpNouIhwacoIzADQ&amp;a-v=rjanLrmHVh8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTheRunawayGuys&amp;xble=1&amp;l-class=5" itct="CAIQs-UBGP___________wEiEwjgptPl_eDfAhULxMEKHRwQA9go-B0yAml2SJ-snczr5ambrgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.71900" y="34.16700" w="43.26600" h="36.30600" t="0:01:49.4"/>
+      <rectRegion x="56.71900" y="34.16700" w="43.26600" h="36.30600" t="0:02:09.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=TheRunawayGuys&amp;annotation_id=annotation_300075&amp;ei=4w42XKCpNouIhwacoIzADQ&amp;feature=iv&amp;src_vid=rjanLrmHVh8" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_32420" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_22150">
+    <movingRegion type="rect">
+      <rectRegion x="12.18800" y="13.33300" w="18.90600" h="5.69400" t="never"/>
+      <rectRegion x="12.18800" y="13.33300" w="18.90600" h="5.69400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_22150" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_908871" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_300075">
+    <movingRegion type="rect">
+      <rectRegion x="13.12500" y="17.50000" w="17.18800" h="5.69400" t="never"/>
+      <rectRegion x="13.12500" y="17.50000" w="17.18800" h="5.69400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="9828"/>
+  <trigger>
+    <condition ref="annotation_300075" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_990700" type="text" style="popup" log_data="a-type=1&amp;xble=1&amp;a-id=annotation_990700&amp;a-v=rjanLrmHVh8&amp;ei=4w42XKCpNouIhwacoIzADQ" itct="CAMQs-UBGP___________wEiEwjgptPl_eDfAhULxMEKHRwQA9go-B0yAml2SJ-snczr5ambrgE">
+  <TEXT>Updated every weekend! First video tomorrow!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="46.09400" h="7.36100" t="0:01:49.4"/>
+      <rectRegion x="0.00000" y="0.00000" w="46.09400" h="7.36100" t="0:02:09.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="16737792" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3sr_2_fg3wIVpbecCh24yAzwKPgdMgJpdkjwoKnJnLmxvFs">
+<annotation id="annotation_240187099" type="text" style="popup" log_data="a-type=1&amp;ei=hQg2XJ70AaXv8gS4kbOADw&amp;xble=1&amp;a-v=W3jFyckqUHA&amp;a-id=annotation_240187099" itct="CAEQs-UBGP___________wEiEwjeyv_b9-DfAhWlt5wKHbjIDPAo-B0yAml2SPCgqcmcubG8Ww">
+  
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.26000" y="2.81700" w="16.84600" h="6.35200" t="18:09.200"/>
+      <rectRegion x="56.26000" y="2.81700" w="16.84600" h="6.35200" t="19:00.168"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_318530195" type="highlight" log_data="a-type=3&amp;ei=hQg2XJ70AaXv8gS4kbOADw&amp;xble=1&amp;a-v=W3jFyckqUHA&amp;a-id=annotation_318530195" itct="CAIQs-UBGP___________wEiEwjeyv_b9-DfAhWlt5wKHbjIDPAo-B0yAml2SPCgqcmcubG8Ww">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.35700" y="3.38000" w="15.96700" h="5.23900" t="18:09.200"/>
+      <rectRegion x="25.35700" y="3.38000" w="15.96700" h="5.23900" t="19:00.168"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_4169142935" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_318530195">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_318530195" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

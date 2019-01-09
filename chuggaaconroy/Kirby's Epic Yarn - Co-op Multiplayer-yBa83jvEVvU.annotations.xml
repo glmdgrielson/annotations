@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI09_Jqfvg3wIVT96cCh3fJAqyKPgdMgJpdkj1rZHe45uvi8gB">
+<annotation id="annotation_46898" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_803164">
+    <movingRegion type="rect">
+      <rectRegion x="3.12500" y="12.77800" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="3.12500" y="12.77800" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_803164" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_803164" type="highlight" log_data="ei=TQw2XJOFAs-88wTfyaiQCw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FProtonJonSA&amp;l-class=3&amp;a-id=annotation_803164&amp;xble=1&amp;a-type=3&amp;a-v=yBa83jvEVvU" itct="CAEQs-UBGP___________wEiEwjT38mp--DfAhVP3pwKHd8kCrIo-B0yAml2SPWtkd7jm6-LyAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.31300" y="0.00000" w="29.68800" h="28.33300" t="0:16:05.6"/>
+      <rectRegion x="70.31300" y="0.00000" w="29.68800" h="28.33300" t="0:16:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/ProtonJonSA?annotation_id=annotation_803164&amp;ei=TQw2XJOFAs-88wTfyaiQCw&amp;feature=iv&amp;src_vid=yBa83jvEVvU" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_864498" type="highlight" log_data="ei=TQw2XJOFAs-88wTfyaiQCw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTheRunawayGuys&amp;l-class=3&amp;a-id=annotation_864498&amp;xble=1&amp;a-type=3&amp;a-v=yBa83jvEVvU" itct="CAIQs-UBGP___________wEiEwjT38mp--DfAhVP3pwKHd8kCrIo-B0yAml2SPWtkd7jm6-LyAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="27.81300" h="29.16700" t="0:16:05.6"/>
+      <rectRegion x="0.00000" y="0.00000" w="27.81300" h="29.16700" t="0:16:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TheRunawayGuys?annotation_id=annotation_864498&amp;ei=TQw2XJOFAs-88wTfyaiQCw&amp;feature=iv&amp;src_vid=yBa83jvEVvU" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_927478" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_864498">
+    <movingRegion type="rect">
+      <rectRegion x="0.78100" y="11.94400" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.78100" y="11.94400" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_864498" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

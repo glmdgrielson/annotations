@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIitGQlfjg3wIVC_OcCh05kAI8KPgdMgJpdkiw0NichNrPsMsB">
+<annotation id="annotation_1677258381" type="highlight" log_data="a-v=y2E-0EOWKDA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;xble=1&amp;a-type=3&amp;a-id=annotation_1677258381&amp;ei=_Ag2XIrjM4vm8wS5oIrgAw&amp;l-class=2" itct="CAEQs-UBGP___________wEiEwiK0ZCV-ODfAhUL85wKHTmQAjwo-B0yAml2SLDQ2JyE2s-wywE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.35700" y="2.53500" w="16.28400" h="5.80300" t="21:35.900"/>
+      <rectRegion x="25.35700" y="2.53500" w="16.28400" h="5.80300" t="21:57.638"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_1677258381&amp;ei=_Ag2XIrjM4vm8wS5oIrgAw&amp;feature=iv&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=y2E-0EOWKDA" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1755411909" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1677258381">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1677258381" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1858135375" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2819530707">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2819530707" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2819530707" type="highlight" log_data="a-v=y2E-0EOWKDA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0xc2FRJiv1c%26list%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX%26index%3D18&amp;xble=1&amp;a-type=3&amp;a-id=annotation_2819530707&amp;ei=_Ag2XIrjM4vm8wS5oIrgAw&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwiK0ZCV-ODfAhUL85wKHTmQAjwo-B0yAml2SLDQ2JyE2s-wywE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.41800" y="1.97200" w="16.44200" h="6.64800" t="21:35.900"/>
+      <rectRegion x="56.41800" y="1.97200" w="16.44200" h="6.64800" t="21:57.638"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2819530707&amp;ei=_Ag2XIrjM4vm8wS5oIrgAw&amp;feature=iv&amp;index=18&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=y2E-0EOWKDA&amp;v=0xc2FRJiv1c" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_853914255" type="text" style="popup" log_data="ei=_Ag2XIrjM4vm8wS5oIrgAw&amp;xble=1&amp;a-type=1&amp;a-id=annotation_853914255&amp;a-v=y2E-0EOWKDA" itct="CAMQs-UBGP___________wEiEwiK0ZCV-ODfAhUL85wKHTmQAjwo-B0yAml2SLDQ2JyE2s-wywE">
+  <TEXT>Updates will be going on-hold for a few days after this video. I&#39;m in a situation in which I&#39;m traveling to record the next multiplayer video and am going to need more time to further the series.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.90200" y="74.93000" w="70.88000" h="16.48600" t="0:00.000"/>
+      <rectRegion x="1.90200" y="74.93000" w="70.88000" h="16.48600" t="0:20.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

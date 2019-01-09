@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIo7_94ffg3wIVyeXBCh0Z2gNcKPgdMgJpdkjuubKR-8-Ho84B">
+<annotation id="annotation_1427815247" type="highlight" log_data="l-class=1&amp;xble=1&amp;ei=kQg2XOOyI8nLhwaZtI_gBQ&amp;a-id=annotation_1427815247&amp;a-v=zkYef7IsnO4&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dpc6vEneC0oo%26list%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX%26index%3D76&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwijv_3h9-DfAhXJ5cEKHRnaA1wo-B0yAml2SO65spH7z4ejzgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.94300" y="2.25400" w="16.60100" h="6.08500" t="30:28.700"/>
+      <rectRegion x="55.94300" y="2.25400" w="16.60100" h="6.08500" t="31:42.665"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1427815247&amp;ei=kQg2XOOyI8nLhwaZtI_gBQ&amp;feature=iv&amp;index=76&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=zkYef7IsnO4&amp;v=pc6vEneC0oo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2122386957" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1427815247">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1427815247" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2175022883" type="highlight" log_data="l-class=2&amp;xble=1&amp;ei=kQg2XOOyI8nLhwaZtI_gBQ&amp;a-id=annotation_2175022883&amp;a-v=zkYef7IsnO4&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwijv_3h9-DfAhXJ5cEKHRnaA1wo-B0yAml2SO65spH7z4ejzgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.04000" y="2.53500" w="16.75900" h="6.64800" t="30:28.700"/>
+      <rectRegion x="25.04000" y="2.53500" w="16.75900" h="6.64800" t="31:42.665"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_2175022883&amp;ei=kQg2XOOyI8nLhwaZtI_gBQ&amp;feature=iv&amp;list=PL_sYhAj0WXROuo8EKOKQgIzCZfLlOd0EX&amp;src_vid=zkYef7IsnO4" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2601548407" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2175022883">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2175022883" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3668127993" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=zkYef7IsnO4&amp;ei=kQg2XOOyI8nLhwaZtI_gBQ&amp;a-id=annotation_3668127993" itct="CAMQs-UBGP___________wEiEwijv_3h9-DfAhXJ5cEKHRnaA1wo-B0yAml2SO65spH7z4ejzgE">
+  <TEXT>This actually does not apply to this Magikarp. It&#39;s based on the cartridge it was obtained on, this Magikarp doesn&#39;t count even though it&#39;s considered foreign in-game.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.26800" y="78.02800" w="71.51300" h="19.85900" t="13:26.550"/>
+      <rectRegion x="1.26800" y="78.02800" w="71.51300" h="19.85900" t="13:43.700"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

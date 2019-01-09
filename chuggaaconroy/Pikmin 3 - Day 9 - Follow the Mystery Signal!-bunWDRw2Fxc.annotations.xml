@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI--Dvt_jg3wIV0O3BCh0zJwUbKPgdMgJpdkiXrtjh0cH19G4">
+<annotation id="annotation_1256023417" type="highlight" log_data="a-v=bunWDRw2Fxc&amp;l-class=2&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX&amp;a-type=3&amp;a-id=annotation_1256023417&amp;ei=RQk2XLuqK9DbhwazzpTYAQ" itct="CAEQs-UBGP___________wEiEwj74O-3-ODfAhXQ7cEKHTMnBRso-B0yAml2SJeu2OHRwfX0bg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.88600" y="2.25400" w="26.58500" h="8.05600" t="24:03.700"/>
+      <rectRegion x="11.88600" y="2.25400" w="26.58500" h="8.05600" t="24:21.880"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_1256023417&amp;ei=RQk2XLuqK9DbhwazzpTYAQ&amp;feature=iv&amp;list=PL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX&amp;src_vid=bunWDRw2Fxc" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1352892085" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1256023417">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1256023417" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1795571261" type="highlight" log_data="a-v=bunWDRw2Fxc&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtwZSmcg0B9E%26list%3DPL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX%26index%3D10&amp;a-type=3&amp;a-id=annotation_1795571261&amp;ei=RQk2XLuqK9DbhwazzpTYAQ" itct="CAIQs-UBGP___________wEiEwj74O-3-ODfAhXQ7cEKHTMnBRso-B0yAml2SJeu2OHRwfX0bg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.02500" y="1.97200" w="26.58500" h="9.18300" t="24:03.700"/>
+      <rectRegion x="64.02500" y="1.97200" w="26.58500" h="9.18300" t="24:21.904"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1795571261&amp;ei=RQk2XLuqK9DbhwazzpTYAQ&amp;feature=iv&amp;index=10&amp;list=PL_sYhAj0WXRMSxd5vQ9UW2TIfe7hxi5MX&amp;src_vid=bunWDRw2Fxc&amp;v=twZSmcg0B9E" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1835850461" type="text" style="popup" log_data="xble=1&amp;ei=RQk2XLuqK9DbhwazzpTYAQ&amp;a-v=bunWDRw2Fxc&amp;a-type=1&amp;a-id=annotation_1835850461" itct="CAMQs-UBGP___________wEiEwj74O-3-ODfAhXQ7cEKHTMnBRso-B0yAml2SJeu2OHRwfX0bg">
+  <TEXT>One thing I didn&#39;t mention is that the rocks aren&#39;t insta-kill. It buries Pikmin in the ground, then eats them as it burrows and makes sinkholes.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.58000" y="66.19700" w="74.36700" h="11.69800" t="13:41.651"/>
+      <rectRegion x="14.58000" y="66.19700" w="74.36700" h="11.69800" t="13:50.700"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3179691719" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1795571261">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1795571261" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

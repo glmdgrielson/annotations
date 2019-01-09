@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0LiGhPvg3wIVA4TBCh2FVQI1KPgdMgJpdkjl_fXNvYv1s8YB">
+<annotation id="annotation_25507" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_33552">
+    <movingRegion type="rect">
+      <rectRegion x="2.96900" y="13.88900" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="2.96900" y="13.88900" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_33552" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_30078" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_940253">
+    <movingRegion type="rect">
+      <rectRegion x="3.12500" y="13.61100" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="3.12500" y="13.61100" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_940253" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_33552" type="highlight" log_data="ei=_gs2XNDBFIOIhgaFq4moAw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXRNICo5YjspxqGV8TvHhxQG3&amp;xble=1&amp;l-class=2&amp;a-type=3&amp;a-id=annotation_33552&amp;a-v=xmfUW9m9fuU" itct="CAEQs-UBGP___________wEiEwjQuIaE--DfAhUDhMEKHYVVAjUo-B0yAml2SOX99c29i_WzxgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="16.25000" y="51.94400" w="30.15600" h="13.61100" t="0:13:46.7"/>
+      <rectRegion x="16.25000" y="51.94400" w="30.15600" h="13.61100" t="0:14:00.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_33552&amp;ei=_gs2XNDBFIOIhgaFq4moAw&amp;feature=iv&amp;list=PL_sYhAj0WXRNICo5YjspxqGV8TvHhxQG3&amp;src_vid=xmfUW9m9fuU" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_940253" type="highlight" log_data="ei=_gs2XNDBFIOIhgaFq4moAw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1FlcUELY94A&amp;xble=1&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_940253&amp;a-v=xmfUW9m9fuU" itct="CAIQs-UBGP___________wEiEwjQuIaE--DfAhUDhMEKHYVVAjUo-B0yAml2SOX99c29i_WzxgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.75000" y="52.22200" w="30.31200" h="13.61100" t="0:13:46.7"/>
+      <rectRegion x="53.75000" y="52.22200" w="30.31200" h="13.61100" t="0:14:00.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_940253&amp;ei=_gs2XNDBFIOIhgaFq4moAw&amp;feature=iv&amp;src_vid=xmfUW9m9fuU&amp;v=1FlcUELY94A" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_994411" type="text" style="popup" log_data="ei=_gs2XNDBFIOIhgaFq4moAw&amp;a-v=xmfUW9m9fuU&amp;xble=1&amp;a-type=1&amp;a-id=annotation_994411" itct="CAMQs-UBGP___________wEiEwjQuIaE--DfAhUDhMEKHYVVAjUo-B0yAml2SOX99c29i_WzxgE">
+  <TEXT>Shoot! Item description is wrong! Ah well, you know where it&#39;s found.
+...Or do you?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="44.06300" y="30.27800" w="28.59400" h="22.22200" t="0:10:53.3"/>
+      <rectRegion x="44.06300" y="30.27800" w="28.59400" h="22.22200" t="0:11:00.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="4210330" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation></annotations></document>

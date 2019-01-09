@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI7-Gulf3g3wIVGNDBCh2zaAf-KPgdMgJpdkiy45uC6YPljNwB">
+<annotation id="annotation_387287" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL4AA27D7B17941523&amp;a-id=annotation_387287&amp;l-class=2&amp;xble=1&amp;a-type=3&amp;a-v=3BmUHpBG8bI&amp;ei=Ow42XK_YH5ighwaz0Z3wDw" itct="CAEQs-UBGP___________wEiEwjv4a6V_eDfAhUY0MEKHbNoB_4o-B0yAml2SLLjm4Lpg-WM3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="57.34400" y="0.55600" w="12.18800" h="9.44400" t="0:00:00.0"/>
+      <rectRegion x="57.34400" y="0.55600" w="12.18800" h="9.44400" t="0:00:09.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_387287&amp;ei=Ow42XK_YH5ighwaz0Z3wDw&amp;feature=iv&amp;list=PL4AA27D7B17941523&amp;src_vid=3BmUHpBG8bI" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_567666" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to open Playlist in a new tab!</TEXT>
+  <segment spaceRelative="annotation_387287">
+    <movingRegion type="rect">
+      <rectRegion x="-4.68700" y="9.16700" w="21.09400" h="10.00000" t="never"/>
+      <rectRegion x="-4.68700" y="9.16700" w="21.09400" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_387287" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_704689" type="text" style="popup" log_data="a-id=annotation_704689&amp;a-type=1&amp;a-v=3BmUHpBG8bI&amp;xble=1&amp;ei=Ow42XK_YH5ighwaz0Z3wDw" itct="CAIQs-UBGP___________wEiEwjv4a6V_eDfAhUY0MEKHbNoB_4o-B0yAml2SLLjm4Lpg-WM3AE">
+  <TEXT>Luigi&#39;s HP is different here because I had to re-record this part of the game due to the final battle and ending  not being recorded right. In my original run, I didn&#39;t do quite as well. Just wanted to point that out.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.40600" y="69.16700" w="97.65600" h="11.66700" t="0:03:23.1"/>
+      <rectRegion x="1.40600" y="69.16700" w="97.65600" h="11.66700" t="0:03:28.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_820674" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM9ddScq0ezM&amp;a-id=annotation_820674&amp;l-class=1&amp;xble=1&amp;a-type=3&amp;a-v=3BmUHpBG8bI&amp;ei=Ow42XK_YH5ighwaz0Z3wDw" itct="CAMQs-UBGP___________wEiEwjv4a6V_eDfAhUY0MEKHbNoB_4o-B0yAml2SLLjm4Lpg-WM3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="26.56300" y="0.83300" w="24.37500" h="8.61100" t="0:00:00.0"/>
+      <rectRegion x="26.56300" y="0.83300" w="24.37500" h="8.61100" t="0:00:09.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_820674&amp;ei=Ow42XK_YH5ighwaz0Z3wDw&amp;feature=iv&amp;src_vid=3BmUHpBG8bI&amp;v=M9ddScq0ezM" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_903306" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click!</TEXT>
+  <segment spaceRelative="annotation_820674">
+    <movingRegion type="rect">
+      <rectRegion x="2.81300" y="8.61100" w="18.75000" h="5.55600" t="never"/>
+      <rectRegion x="2.81300" y="8.61100" w="18.75000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_820674" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyujv4Pjg3wIVRs-cCh2baAUgKPgdMgJpdkiN4eGz2OOK-rsB">
+<annotation id="annotation_2100204223" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4293305703">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4293305703" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_313031049" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_620754175">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_620754175" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_381258069" type="text" style="popup" log_data="a-type=1&amp;xble=1&amp;a-id=annotation_381258069&amp;a-v=u_QrHYZ4cI0&amp;ei=mwk2XIqvKsae8wSb0ZWAAg" itct="CAEQs-UBGP___________wEiEwjK6O_g-ODfAhVGz5wKHZtoBSAo-B0yAml2SI3h4bPY44r6uwE">
+  <TEXT>Seems I tweened things wrong here! Don&#39;t worry, the blank space only lasts a few seconds!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.97300" y="0.00000" w="86.09400" h="7.19000" t="0:00.000"/>
+      <rectRegion x="6.97300" y="0.00000" w="86.09400" h="7.19000" t="0:06.400"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_4293305703" type="highlight" log_data="a-v=u_QrHYZ4cI0&amp;a-type=3&amp;a-id=annotation_4293305703&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_sYhAj0WXRM5w3LkVEVGE_7dbvf4n41S&amp;xble=1&amp;l-class=2&amp;ei=mwk2XIqvKsae8wSb0ZWAAg" itct="CAIQs-UBGP___________wEiEwjK6O_g-ODfAhVGz5wKHZtoBSAo-B0yAml2SI3h4bPY44r6uwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.99000" y="2.81700" w="14.69900" h="8.05600" t="15:15.000"/>
+      <rectRegion x="25.99000" y="2.81700" w="14.69900" h="8.05600" t="15:27.079"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_4293305703&amp;ei=mwk2XIqvKsae8wSb0ZWAAg&amp;feature=iv&amp;list=PL_sYhAj0WXRM5w3LkVEVGE_7dbvf4n41S&amp;src_vid=u_QrHYZ4cI0" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_620754175" type="highlight" log_data="a-v=u_QrHYZ4cI0&amp;a-type=3&amp;a-id=annotation_620754175&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgOfnM18dapQ%26list%3DPL_sYhAj0WXRM5w3LkVEVGE_7dbvf4n41S%26index%3D7&amp;xble=1&amp;l-class=1&amp;ei=mwk2XIqvKsae8wSb0ZWAAg" itct="CAMQs-UBGP___________wEiEwjK6O_g-ODfAhVGz5wKHZtoBSAo-B0yAml2SI3h4bPY44r6uwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.63700" y="3.66200" w="15.17400" h="6.93000" t="15:15.100"/>
+      <rectRegion x="58.63700" y="3.66200" w="15.17400" h="6.93000" t="15:27.079"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_620754175&amp;ei=mwk2XIqvKsae8wSb0ZWAAg&amp;feature=iv&amp;index=7&amp;list=PL_sYhAj0WXRM5w3LkVEVGE_7dbvf4n41S&amp;src_vid=u_QrHYZ4cI0&amp;v=gOfnM18dapQ" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>
