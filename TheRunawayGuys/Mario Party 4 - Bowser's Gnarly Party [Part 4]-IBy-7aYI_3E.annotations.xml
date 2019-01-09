@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIl97up4_h3wIVhZPBCh08nQQIKPgdMgJpdkjx_qOw2t2vjiA">
+<annotation id="annotation_1910427093" type="highlight" log_data="l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FChuggaaconroy&amp;xble=1&amp;a-id=annotation_1910427093&amp;a-type=3&amp;a-v=IBy-7aYI_3E&amp;ei=QiE2XJe1CYWnhga8upJA" itct="CAEQs-UBGP___________wEiEwiX3u6nj-HfAhWFk8EKHTydBAgo-B0yAml2SPH-o7Da3a-OIA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.54700" y="10.98600" w="27.37700" h="81.01700" t="19:10.100"/>
+      <rectRegion x="5.54700" y="10.98600" w="27.37700" h="81.01700" t="19:36.141"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/Chuggaaconroy?annotation_id=annotation_1910427093&amp;ei=QiE2XJe1CYWnhga8upJA&amp;feature=iv&amp;src_vid=IBy-7aYI_3E" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2057672331" type="highlight" log_data="l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FProtonJonSA&amp;xble=1&amp;a-id=annotation_2057672331&amp;a-type=3&amp;a-v=IBy-7aYI_3E&amp;ei=QiE2XJe1CYWnhga8upJA" itct="CAIQs-UBGP___________wEiEwiX3u6nj-HfAhWFk8EKHTydBAgo-B0yAml2SPH-o7Da3a-OIA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.09700" y="10.98600" w="26.74300" h="83.83400" t="19:10.100"/>
+      <rectRegion x="69.09700" y="10.98600" w="26.74300" h="83.83400" t="19:36.141"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/ProtonJonSA?annotation_id=annotation_2057672331&amp;ei=QiE2XJe1CYWnhga8upJA&amp;feature=iv&amp;src_vid=IBy-7aYI_3E" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2488628625" type="highlight" log_data="l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNintendoCapriSun&amp;xble=1&amp;a-id=annotation_2488628625&amp;a-type=3&amp;a-v=IBy-7aYI_3E&amp;ei=QiE2XJe1CYWnhga8upJA" itct="CAMQs-UBGP___________wEiEwiX3u6nj-HfAhWFk8EKHTydBAgo-B0yAml2SPH-o7Da3a-OIA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.45000" y="11.26800" w="27.21900" h="82.42600" t="19:10.100"/>
+      <rectRegion x="36.45000" y="11.26800" w="27.21900" h="82.42600" t="19:36.141"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/NintendoCapriSun?annotation_id=annotation_2488628625&amp;ei=QiE2XJe1CYWnhga8upJA&amp;feature=iv&amp;src_vid=IBy-7aYI_3E" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3015808939" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2488628625">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2488628625" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_451443551" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2057672331">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2057672331" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_859032983" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1910427093">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1910427093" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51ee4690-0-27f0-867e-f46d043c8212" style="branding" type="branding"
+            log_data="l-class=3&amp;a-ch=UCS2EY3XJCvXi5QGTN6mxUtA&amp;xble=0&amp;a-id=51ee4690-0-27f0-867e-f46d043c8212&amp;a-type=10&amp;a-v=IBy-7aYI_3E&amp;link-id=UCS2EY3XJCvXi5QGTN6mxUtA&amp;ei=QiE2XJe1CYWnhga8upJA">
+  <data>{&quot;image_type&quot;:1,&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;TheRunawayGuys&quot;,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;num_subscribers&quot;:&quot;486867&quot;,&quot;start_ms&quot;:5000,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;486K&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;486K&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqa0ZVZUtZUnd1OXdYNlk3bFQ0N2lqeTUzZlBDd3xBQ3Jtc0tsRFMtcjJ5VU0yb213V3M4THJ5Ump4Mm1oOERYU0Rac0xWc0p1dmJpR2hDcHRhNTJ3WGM1Q0lFQk5BQjBtREJjdVRoVThfdmdTUHNpOWxwOS12a05BZTAtbFVCODNqWnZlQURpSzlQUzdiSDFYNUUzWDh2RHJiOXpiekxRQWJ3dm1VTGFnZ3hhUkl6am9qWUdRYVV6eVB2dmNzYmQ4c3JYcGF6QWhBQnpXMkVzdTRFeTloV0VWdXR5QWJQX3RJNEMtWUVROUZkczdNRWZabm1ZbU9iWTU5VzZOaFhVcHhuZ0lGeG03RU5fOVhESjV2Zk1v%26feature%3Div%26app%3Ddesktop%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTheRunawayGuys%26hl%3Den\u0026service=youtube\u0026hl=en\u0026uilel=3&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCS2EY3XJCvXi5QGTN6mxUtA&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;51ee4690-0-27f0-867e-f46d043c8212&quot;,&quot;src_vid&quot;:&quot;IBy-7aYI_3E&quot;,&quot;ei&quot;:&quot;QiE2XJe1CYWnhga8upJA&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCJfe7qeP4d8CFYWTwQodPJ0ECCj4HTICaXZI8f6jsNrdr44g&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/S2EY3XJCvXi5QGTN6mxUtA\/featured_channel.jpg?v=52066e27&quot;,&quot;end_ms&quot;:15000,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TheRunawayGuys"/>
+  </action>
+</annotation></annotations></document>
