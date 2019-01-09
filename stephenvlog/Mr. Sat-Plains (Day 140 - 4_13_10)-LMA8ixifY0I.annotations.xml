@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI67Kf_sLh3wIVjtjBCh17Ag9RKPgdMgJpdkjCxv3EsZGP4Cw">
+<annotation id="annotation_280608" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLizzieQueen18&amp;ei=cVc2XKu2H46xhwb7hLyIBQ&amp;a-v=LMA8ixifY0I&amp;l-class=3&amp;a-type=1&amp;a-id=annotation_280608" itct="CAEQs-UBGP___________wEiEwjrsp_-wuHfAhWO2MEKHXsCD1Eo-B0yAml2SMLG_cSxkY_gLA">
+  <TEXT>KAMEHAMEANNOTATION!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="30.78100" y="36.94400" w="33.28100" h="17.77800" t="0:05:07.2"/>
+      <rectRegion x="30.78100" y="36.94400" w="33.28100" h="17.77800" t="0:05:10.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_280608&amp;ei=cVc2XKu2H46xhwb7hLyIBQ&amp;feature=iv&amp;src_vid=LMA8ixifY0I&amp;user=LizzieQueen18" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_336076" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to watch!</TEXT>
+  <segment spaceRelative="annotation_830674">
+    <movingRegion type="rect">
+      <rectRegion x="1.71900" y="-5.55600" w="16.56300" h="5.83300" t="never"/>
+      <rectRegion x="1.71900" y="-5.55600" w="16.56300" h="5.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_830674" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_830674" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXY5rOwQvyz0&amp;ei=cVc2XKu2H46xhwb7hLyIBQ&amp;a-v=LMA8ixifY0I&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_830674" itct="CAIQs-UBGP___________wEiEwjrsp_-wuHfAhWO2MEKHXsCD1Eo-B0yAml2SMLG_cSxkY_gLA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.37500" y="81.11100" w="20.00000" h="10.83300" t="0:00:30.2"/>
+      <rectRegion x="4.37500" y="81.11100" w="20.00000" h="10.83300" t="0:00:45.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_830674&amp;ei=cVc2XKu2H46xhwb7hLyIBQ&amp;feature=iv&amp;src_vid=LMA8ixifY0I&amp;v=XY5rOwQvyz0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:b1513009-4fbb-47e6-8e00-209869f7a407" style="branding" type="branding"
+            log_data="a-v=LMA8ixifY0I&amp;ei=cVc2XKu2H46xhwb7hLyIBQ&amp;a-ch=UCmiJd2hQvZpWdv37UMv5C2A&amp;xble=0&amp;l-class=3&amp;link-id=UCmiJd2hQvZpWdv37UMv5C2A&amp;a-type=10&amp;a-id=b1513009-4fbb-47e6-8e00-209869f7a407">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/miJd2hQvZpWdv37UMv5C2A\/featured_channel.jpg?v=59c168a0&quot;,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCmiJd2hQvZpWdv37UMv5C2A&quot;,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;StephenVlog&quot;,&quot;end_ms&quot;:596000,&quot;num_subscribers&quot;:&quot;72063&quot;,&quot;image_height&quot;:49,&quot;image_width&quot;:26,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;b1513009-4fbb-47e6-8e00-209869f7a407&quot;,&quot;src_vid&quot;:&quot;LMA8ixifY0I&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCOuyn_7C4d8CFY7YwQodewIPUSj4HTICaXZIwsb9xLGRj-As&quot;,&quot;ei&quot;:&quot;cVc2XKu2H46xhwb7hLyIBQ&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;72K&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;72K&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26continue_action%3DQUFFLUhqay1zR0VFcGJKOXQ4QzI2a1JXX1FhR1kzMXBzQXxBQ3Jtc0tuZER4WW5jSkhmVktrMHhuVTlKVXZSVkVlaEplTUJZSTE0OUp3RlJzcXZXVUluanJqODZlOEpzVGc3Z3R1bzNPMjQzWTZRbmsyWXA3aHQ4d29LYnVDeGI5UjNoOTdJeDh4a20tWnFPbEd4YzZJYzlEVjBXSEtyWXZET3NFc2pPOUZ3VUREV1BpUUtFSFRWbjliZjNQa0R2TVlod2w5NnRoNV9TdjhNTnJSbVk2WE1SakJpMXIzRnI4cm10OEI4SlBPNEtnQ0RCZ3BXXzlXUVh2RnVVeVVFa0xvZ3VlRmFKS2hmODdzRGFPRUZoSjJPRGE4%26action_handle_signin%3Dtrue%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fstephenvlog%26feature%3Div\u0026hl=en\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/stephenvlog"/>
+  </action>
+</annotation></annotations></document>
