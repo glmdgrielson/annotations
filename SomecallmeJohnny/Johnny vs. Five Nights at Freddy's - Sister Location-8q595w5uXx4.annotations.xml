@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0pLR_cnj3wIVR6icCh2gDwESKPgdMgJpdkievrnz8Lyf1_IB">
+<annotation id="annotation_3597785883" type="highlight" log_data="l-class=1&amp;ei=Nms3XNKfLsfQ8gSgn4SQAQ&amp;a-id=annotation_3597785883&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkIirKnya27s&amp;a-v=8q595w5uXx4" itct="CAEQs-UBGP___________wEiEwjSktH9yePfAhVHqJwKHaAPARIo-B0yAml2SJ6-ufPwvJ_X8gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.63100" y="24.83100" w="45.76100" h="46.94400" t="7:18.194"/>
+      <rectRegion x="2.63100" y="24.83100" w="45.76100" h="46.94400" t="7:28.120"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3597785883&amp;ei=Nms3XNKfLsfQ8gSgn4SQAQ&amp;feature=iv&amp;src_vid=8q595w5uXx4&amp;v=kIirKnya27s" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3631698141" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>JOHNNY VS. SONIC BOOM: FIRE &amp; ICE</TEXT>
+  <segment spaceRelative="annotation_3597785883">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="45.60200" h="16.98200" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="45.60200" h="16.98200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3597785883" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_428414243" type="highlight" log_data="l-class=2&amp;ei=Nms3XNKfLsfQ8gSgn4SQAQ&amp;a-id=annotation_428414243&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL67DA96C328E86210&amp;a-v=8q595w5uXx4" itct="CAIQs-UBGP___________wEiEwjSktH9yePfAhVHqJwKHaAPARIo-B0yAml2SJ6-ufPwvJ_X8gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.29800" y="24.78900" w="45.12700" h="45.83300" t="7:18.157"/>
+      <rectRegion x="52.29800" y="24.78900" w="45.12700" h="45.83300" t="7:28.120"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_428414243&amp;ei=Nms3XNKfLsfQ8gSgn4SQAQ&amp;feature=iv&amp;list=PL67DA96C328E86210&amp;src_vid=8q595w5uXx4" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_815517261" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>JOHNNY VS.</TEXT>
+  <segment spaceRelative="annotation_428414243">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="44.33400" h="15.01000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="44.33400" h="15.01000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_428414243" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

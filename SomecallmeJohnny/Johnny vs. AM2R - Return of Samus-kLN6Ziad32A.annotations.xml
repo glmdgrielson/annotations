@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIqKmagsrj3wIVZ4OcCh33EAoVKPgdMgJpdkjgvve04sze2ZAB">
+<annotation id="annotation_25645957" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL67DA96C328E86210&amp;a-type=3&amp;ei=QGs3XKiJFeeG8gT3oaioAQ&amp;a-id=annotation_25645957&amp;l-class=2&amp;xble=1&amp;a-v=kLN6Ziad32A" itct="CAEQs-UBGP___________wEiEwioqZqCyuPfAhVng5wKHfcQChUo-B0yAml2SOC-97TizN7ZkAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.23500" y="25.67600" w="45.12700" h="44.69000" t="13:26.070"/>
+      <rectRegion x="52.23500" y="25.67600" w="45.12700" h="44.69000" t="13:38.386"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_25645957&amp;ei=QGs3XKiJFeeG8gT3oaioAQ&amp;feature=iv&amp;list=PL67DA96C328E86210&amp;src_vid=kLN6Ziad32A" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2625924133" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-wOkM6q2q-c&amp;a-type=3&amp;ei=QGs3XKiJFeeG8gT3oaioAQ&amp;a-id=annotation_2625924133&amp;l-class=1&amp;xble=1&amp;a-v=kLN6Ziad32A" itct="CAIQs-UBGP___________wEiEwioqZqCyuPfAhVng5wKHfcQChUo-B0yAml2SOC-97TizN7ZkAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.69400" y="25.63400" w="45.44400" h="44.97400" t="13:26.070"/>
+      <rectRegion x="2.69400" y="25.63400" w="45.44400" h="44.97400" t="13:38.386"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2625924133&amp;ei=QGs3XKiJFeeG8gT3oaioAQ&amp;feature=iv&amp;src_vid=kLN6Ziad32A&amp;v=-wOkM6q2q-c" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_501048445" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>JOHNNY VS. METROID PRIME: FEDERATION FORCE</TEXT>
+  <segment spaceRelative="annotation_2625924133">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="45.28500" h="14.44700" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="45.28500" h="14.44700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2625924133" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_948791393" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>JOHNNY VS.</TEXT>
+  <segment spaceRelative="annotation_25645957">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="44.96800" h="14.16500" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="44.96800" h="14.16500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_25645957" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:e8dbac82-74e4-4901-921a-f2b048af0ff7" style="video" type="card" log_data="a-ch=UCg83RGdRpwfvoFEuE2zWKZA&amp;a-id=e8dbac82-74e4-4901-921a-f2b048af0ff7&amp;a-type=62&amp;a-v=kLN6Ziad32A&amp;ei=QGs3XKiJFeeG8gT3oaioAQ&amp;l-class=1&amp;link-id=-wOkM6q2q-c&amp;xble=0">
+  <data>{&quot;is_live_now&quot;:false,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAcQ1TYY____________ASITCKipmoLK498CFWeDnAod9xAKFSj4HTIFY2FyZHNI4L73tOLM3tmQAQ&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwioqZqCyuPfAhVng5wKHfcQChUo-B0yBWNhcmRzSOC-97TizN7ZkAE&quot;,&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCKipmoLK498CFWeDnAod9xAKFSj4HTIFY2FyZHNI4L73tOLM3tmQAQ&quot;},&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/-wOkM6q2q-c\/mqdefault.jpg&quot;,&quot;video_duration&quot;:&quot;13:04&quot;,&quot;timestamp&quot;:1473287684403,&quot;meta_info&quot;:[&quot;by SomecallmeJohnny&quot;,&quot;315,884 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=-wOkM6q2q-c&quot;,&quot;teaser_text&quot;:&quot;Suggested: Johnny vs. Metroid Prime: Federation Force&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;QGs3XKiJFeeG8gT3oaioAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;e8dbac82-74e4-4901-921a-f2b048af0ff7&quot;,&quot;src_vid&quot;:&quot;kLN6Ziad32A&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCKipmoLK498CFWeDnAod9xAKFSj4HTIFY2FyZHNI4L73tOLM3tmQAQ&quot;},&quot;start_ms&quot;:18483,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[]},&quot;end_ms&quot;:18483,&quot;title&quot;:&quot;Johnny vs. Metroid Prime: Federation Force&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=-wOkM6q2q-c"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;From SomecallmeJohnny&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwioqZqCyuPfAhVng5wKHfcQChUo+B0yBWNhcmRzSOC+97TizN7ZkAE=&quot;, 
+  &quot;eventId&quot;: &quot;QGs3XKiJFeeG8gT3oaioAQ&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCKipmoLK498CFWeDnAod9xAKFSj4HTIFY2FyZHNI4L73tOLM3tmQAQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwioqZqCyuPfAhVng5wKHfcQChUo+B0yBWNhcmRzSOC+97TizN7ZkAE=&quot;
+}</data>
+</annotation>
+</annotations></document>

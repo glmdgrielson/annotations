@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8uTgkcvj3wIV6oOcCh3JoAu6KPgdMgJpdki9_tHL0I-9lRs">
+<annotation id="annotation_1857183205" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Electrical Communication (Full Version)</TEXT>
+  <segment spaceRelative="annotation_479004891">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_479004891" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_479004891" type="highlight" log_data="a-v=Gyr0fQl0fz0&amp;ei=bWw3XLL6F-qH8gTJwa7QCw&amp;a-type=3&amp;a-id=annotation_479004891&amp;xble=1&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrF6l0d1-39A" itct="CAEQs-UBGP___________wEiEwjy5OCRy-PfAhXqg5wKHcmgC7oo-B0yAml2SL3-0cvQj72VGw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.80000" y="29.62000" w="89.83200" h="33.39600" t="13:38.450"/>
+      <rectRegion x="5.80000" y="29.62000" w="89.83200" h="33.39600" t="13:44.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_479004891&amp;ei=bWw3XLL6F-qH8gTJwa7QCw&amp;feature=iv&amp;src_vid=Gyr0fQl0fz0&amp;v=rF6l0d1-39A" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

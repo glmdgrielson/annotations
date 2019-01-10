@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIt-n-r8rj3wIVKsfBCh1CagpGKPgdMgJpdkjH4omPqrP9vb8B">
+<annotation id="annotation_1169688439" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Johnny vs. Batman: Arkham Knight</TEXT>
+  <segment spaceRelative="annotation_1876378013">
+    <movingRegion type="rect">
+      <rectRegion x="-0.09500" y="35.45100" w="45.44400" h="11.06700" t="never"/>
+      <rectRegion x="-0.09500" y="35.45100" w="45.44400" h="11.06700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1876378013" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1876378013" type="highlight" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1_Hfo70-dVo&amp;a-id=annotation_1876378013&amp;ei=oGs3XLeZFqqOhwbC1KmwBA&amp;a-v=v3v1mqHicUc&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwi36f6vyuPfAhUqx8EKHUJqCkYo-B0yAml2SMfiiY-qs_29vwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.10600" y="26.52100" w="44.33400" h="44.40800" t="7:14.098"/>
+      <rectRegion x="3.10600" y="26.52100" w="44.33400" h="44.40800" t="7:24.894"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1876378013&amp;ei=oGs3XLeZFqqOhwbC1KmwBA&amp;feature=iv&amp;src_vid=v3v1mqHicUc&amp;v=1_Hfo70-dVo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2280623649" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Johnny Vs.</TEXT>
+  <segment spaceRelative="annotation_3423545875">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="36.76100" w="44.33400" h="7.40800" t="never"/>
+      <rectRegion x="0.00000" y="36.76100" w="44.33400" h="7.40800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3423545875" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3423545875" type="highlight" log_data="l-class=2&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL67DA96C328E86210&amp;a-id=annotation_3423545875&amp;ei=oGs3XLeZFqqOhwbC1KmwBA&amp;a-v=v3v1mqHicUc&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwi36f6vyuPfAhUqx8EKHUJqCkYo-B0yAml2SMfiiY-qs_29vwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.86800" y="25.09900" w="44.65100" h="45.54900" t="7:14.098"/>
+      <rectRegion x="52.86800" y="25.09900" w="44.65100" h="45.54900" t="7:24.893"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_3423545875&amp;ei=oGs3XLeZFqqOhwbC1KmwBA&amp;feature=iv&amp;list=PL67DA96C328E86210&amp;src_vid=v3v1mqHicUc" link_class="2"/>
+  </action>
+
+</annotation>
+</annotations></document>

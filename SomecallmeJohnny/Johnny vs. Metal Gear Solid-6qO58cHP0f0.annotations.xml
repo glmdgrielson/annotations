@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIx8jvpMrj3wIVAbOcCh12rAw8KPgdMgJpdkj9o7-OnL7u0eoB">
+<annotation id="annotation_1614045047" type="highlight" log_data="l-class=2&amp;a-v=6qO58cHP0f0&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL67DA96C328E86210&amp;ei=iWs3XIfgAoHm8gT22LLgAw&amp;xble=1&amp;a-id=annotation_1614045047" itct="CAEQs-UBGP___________wEiEwjHyO-kyuPfAhUBs5wKHXasDDwo-B0yAml2SP2jv46cvu7R6gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.45600" y="25.35200" w="44.81000" h="43.56300" t="29:07.956"/>
+      <rectRegion x="52.45600" y="25.35200" w="44.81000" h="43.56300" t="29:20.466"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_1614045047&amp;ei=iWs3XIfgAoHm8gT22LLgAw&amp;feature=iv&amp;list=PL67DA96C328E86210&amp;src_vid=6qO58cHP0f0" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1666457229" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>JOHNNY VS.</TEXT>
+  <segment spaceRelative="annotation_1614045047">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="44.33400" h="13.32000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="44.33400" h="13.32000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1614045047" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_178264533" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>JOHNNY VS. THE METAL GEAR SAGA</TEXT>
+  <segment spaceRelative="annotation_412941105">
+    <movingRegion type="rect">
+      <rectRegion x="7.76500" y="30.14100" w="25.95100" h="11.63400" t="never"/>
+      <rectRegion x="7.76500" y="30.14100" w="25.95100" h="11.63400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_412941105" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_412941105" type="highlight" log_data="l-class=1&amp;a-v=6qO58cHP0f0&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKyZzhjW1khk&amp;ei=iWs3XIfgAoHm8gT22LLgAw&amp;xble=1&amp;a-id=annotation_412941105" itct="CAIQs-UBGP___________wEiEwjHyO-kyuPfAhUBs5wKHXasDDwo-B0yAml2SP2jv46cvu7R6gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.17000" y="25.07000" w="44.01700" h="43.84500" t="29:07.956"/>
+      <rectRegion x="3.17000" y="25.07000" w="44.01700" h="43.84500" t="29:20.466"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_412941105&amp;ei=iWs3XIfgAoHm8gT22LLgAw&amp;feature=iv&amp;src_vid=6qO58cHP0f0&amp;v=KyZzhjW1khk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:02f174ec-57a7-4a5d-bc5b-985de063b065" style="playlist" type="card" log_data="a-ch=UCg83RGdRpwfvoFEuE2zWKZA&amp;a-id=02f174ec-57a7-4a5d-bc5b-985de063b065&amp;a-type=63&amp;a-v=6qO58cHP0f0&amp;ei=iWs3XIfgAoHm8gT22LLgAw&amp;l-class=2&amp;link-id=PL67DA96C328E86210&amp;xble=0">
+  <data>{&quot;end_ms&quot;:154941,&quot;custom_message&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=7f2hJtJhU-0\u0026list=PL67DA96C328E86210&quot;,&quot;title&quot;:&quot;Johnny Vs.&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;teaser_text&quot;:&quot;Suggested: Johnny Vs.&quot;,&quot;playlist_video_count&quot;:&quot;188&quot;,&quot;meta_info&quot;:[&quot;by SomecallmeJohnny&quot;,&quot;188 videos&quot;],&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;playlist&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/7f2hJtJhU-0\/mqdefault.jpg&quot;,&quot;start_ms&quot;:154941,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAcQ1TYY____________ASITCMfI76TK498CFQGznAoddqwMPCj4HTIFY2FyZHNI_aO_jpy-7tHqAQ&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwjHyO-kyuPfAhUBs5wKHXasDDwo-B0yBWNhcmRzSP2jv46cvu7R6gE&quot;,&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCMfI76TK498CFQGznAoddqwMPCj4HTIFY2FyZHNI_aO_jpy-7tHqAQ&quot;},&quot;timestamp&quot;:1448663125056,&quot;target&quot;:&quot;new&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;iWs3XIfgAoHm8gT22LLgAw&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCMfI76TK498CFQGznAoddqwMPCj4HTIFY2FyZHNI_aO_jpy-7tHqAQ&quot;,&quot;src_vid&quot;:&quot;6qO58cHP0f0&quot;,&quot;annotation_id&quot;:&quot;02f174ec-57a7-4a5d-bc5b-985de063b065&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=7f2hJtJhU-0&amp;list=PL67DA96C328E86210"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCMfI76TK498CFQGznAoddqwMPCj4HTIFY2FyZHNI/aO/jpy+7tHqAQ==&quot;, 
+  &quot;eventId&quot;: &quot;iWs3XIfgAoHm8gT22LLgAw&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwjHyO+kyuPfAhUBs5wKHXasDDwo+B0yBWNhcmRzSP2jv46cvu7R6gE=&quot;, 
+  &quot;headerText&quot;: &quot;From SomecallmeJohnny&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwjHyO+kyuPfAhUBs5wKHXasDDwo+B0yBWNhcmRzSP2jv46cvu7R6gE=&quot;
+}</data>
+</annotation>
+</annotations></document>
