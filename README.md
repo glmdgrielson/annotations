@@ -20,3 +20,6 @@ How to get annotation data
 Note that currently the files are categorized into folders based on the
 original channel. It is encouraged that you do the same for ensure easy
 access.
+
+Check out this, too: [an archive with ***much*** more stuff, though a bit less user-friendly
+in its layout](https://github.com/omarroth/archive).
