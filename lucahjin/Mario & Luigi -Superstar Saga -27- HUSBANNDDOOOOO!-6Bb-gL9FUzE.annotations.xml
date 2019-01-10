@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIo_PmhPXj3wIVI9vBCh3M6g35KPgdMgJpdkixppX6i9C_i-gB">
+<annotation id="annotation_1323928579" type="highlight" log_data="l-class=1&amp;a-id=annotation_1323928579&amp;ei=XJg3XKPVH6O2hwbM1bfIDw&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFCyaWcnmW0Y&amp;a-type=3&amp;a-v=6Bb-gL9FUzE" itct="CAEQs-UBGP___________wEiEwij8-aE9ePfAhUj28EKHczqDfko-B0yAml2SLGmlfqL0L-L6AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.29500" y="5.85200" w="13.25200" h="12.25200" t="16:25.000"/>
+      <rectRegion x="3.29500" y="5.85200" w="13.25200" h="12.25200" t="16:39.989"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1323928579&amp;ei=XJg3XKPVH6O2hwbM1bfIDw&amp;feature=iv&amp;src_vid=6Bb-gL9FUzE&amp;v=FCyaWcnmW0Y" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1798317129" type="highlight" log_data="l-class=5&amp;a-id=annotation_1798317129&amp;ei=XJg3XKPVH6O2hwbM1bfIDw&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Flucahjin%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-v=6Bb-gL9FUzE" itct="CAIQs-UBGP___________wEiEwij8-aE9ePfAhUj28EKHczqDfko-B0yAml2SLGmlfqL0L-L6AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="33.38100" y="6.61600" w="33.59600" h="11.48900" t="16:25.000"/>
+      <rectRegion x="33.38100" y="6.61600" w="33.59600" h="11.48900" t="16:39.989"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/lucahjin?annotation_id=annotation_1798317129&amp;ei=XJg3XKPVH6O2hwbM1bfIDw&amp;feature=iv&amp;src_vid=6Bb-gL9FUzE&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2347924409" type="highlight" log_data="l-class=1&amp;a-id=annotation_2347924409&amp;ei=XJg3XKPVH6O2hwbM1bfIDw&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbIK8wGwIMxY&amp;a-type=3&amp;a-v=6Bb-gL9FUzE" itct="CAMQs-UBGP___________wEiEwij8-aE9ePfAhUj28EKHczqDfko-B0yAml2SLGmlfqL0L-L6AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="82.37800" y="5.08900" w="13.96800" h="13.77900" t="16:24.000"/>
+      <rectRegion x="82.37800" y="5.08900" w="13.96800" h="13.77900" t="16:39.989"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2347924409&amp;ei=XJg3XKPVH6O2hwbM1bfIDw&amp;feature=iv&amp;src_vid=6Bb-gL9FUzE&amp;v=bIK8wGwIMxY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3536539619" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1323928579">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1323928579" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3600829513" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1798317129">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1798317129" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_497584191" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2347924409">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2347924409" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:b3669e60-c4ca-4d9f-9181-f7154f910302" style="playlist" type="card" log_data="a-ch=UCS4d3C_e8lmHXT1zltSNzcg&amp;a-id=b3669e60-c4ca-4d9f-9181-f7154f910302&amp;a-type=63&amp;a-v=6Bb-gL9FUzE&amp;ei=XJg3XKPVH6O2hwbM1bfIDw&amp;l-class=2&amp;link-id=PLRAcwizMKyhohQMN-cAvBtpJGdx4QCSXt&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=TXhPvNkJ3_A\u0026list=PLRAcwizMKyhohQMN-cAvBtpJGdx4QCSXt&quot;,&quot;playlist_video_count&quot;:&quot;65&quot;,&quot;meta_info&quot;:[&quot;by lucahjin&quot;,&quot;65 videos&quot;],&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;title&quot;:&quot;Ocarina of Time [BLIND]&quot;,&quot;teaser_text&quot;:&quot;Suggested: Ocarina of Time [BLIND]&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;6Bb-gL9FUzE&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCKPz5oT1498CFSPbwQodzOoN-Sj4HTIFY2FyZHNIsaaV-ovQv4voAQ&quot;,&quot;annotation_id&quot;:&quot;b3669e60-c4ca-4d9f-9181-f7154f910302&quot;,&quot;ei&quot;:&quot;XJg3XKPVH6O2hwbM1bfIDw&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/TXhPvNkJ3_A\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCKPz5oT1498CFSPbwQodzOoN-Sj4HTIFY2FyZHNIsaaV-ovQv4voAQ&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCKPz5oT1498CFSPbwQodzOoN-Sj4HTIFY2FyZHNIsaaV-ovQv4voAQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwij8-aE9ePfAhUj28EKHczqDfko-B0yBWNhcmRzSLGmlfqL0L-L6AE&quot;},&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:792132,&quot;start_ms&quot;:792132,&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=TXhPvNkJ3_A&amp;list=PLRAcwizMKyhohQMN-cAvBtpJGdx4QCSXt"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;From lucahjin&quot;, 
+  &quot;eventId&quot;: &quot;XJg3XKPVH6O2hwbM1bfIDw&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwij8+aE9ePfAhUj28EKHczqDfko+B0yBWNhcmRzSLGmlfqL0L+L6AE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCKPz5oT1498CFSPbwQodzOoN+Sj4HTIFY2FyZHNIsaaV+ovQv4voAQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwij8+aE9ePfAhUj28EKHczqDfko+B0yBWNhcmRzSLGmlfqL0L+L6AE=&quot;
+}</data>
+</annotation>
+</annotations></document>

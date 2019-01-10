@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIp6GixvTj3wIVAsRgCh2tiw28KPgdMgJpdki0lIfwjb_C0Ew">
+<annotation id="annotation_2279074217" type="highlight" log_data="ei=2Zc3XOfQFoKIgwOtl7bgCw&amp;a-id=annotation_2279074217&amp;l-class=3&amp;xble=1&amp;a-v=TKEJ-N4ByjQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Flucahjin&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwinoaLG9OPfAhUCxGAKHa2LDbwo-B0yAml2SLSUh_CNv8LQTA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="31.80500" y="5.59800" w="36.89100" h="13.52400" t="21:58.000"/>
+      <rectRegion x="31.80500" y="5.59800" w="36.89100" h="13.52400" t="22:03.722"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/lucahjin?annotation_id=annotation_2279074217&amp;ei=2Zc3XOfQFoKIgwOtl7bgCw&amp;feature=iv&amp;src_vid=TKEJ-N4ByjQ" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4100849097" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2279074217">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2279074217" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>
