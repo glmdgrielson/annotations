@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIqMi41P7h3wIVBPacCh16dwOYKPgdMgJpdkjNr9mAkZHInjI">
+<annotation id="annotation_736931" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Check out the episode in question by clicking the banner</TEXT>
+  <segment spaceRelative="annotation_821107">
+    <movingRegion type="rect">
+      <rectRegion x="6.09400" y="94.44400" w="57.81300" h="5.55600" t="never"/>
+      <rectRegion x="6.09400" y="94.44400" w="57.81300" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_821107" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_821107" type="highlight" log_data="l-class=1&amp;a-id=annotation_821107&amp;a-type=3&amp;ei=A5Y2XOi6O4Ts8wT67o3ACQ&amp;a-v=Mj0giRAWV80&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvcPEb_BXWEY" itct="CAEQs-UBGP___________wEiEwioyLjU_uHfAhUE9pwKHXp3A5go-B0yAml2SM2v2YCRkcieMg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="16.71900" y="0.00000" w="66.71900" h="14.44400" t="0:13:50.6"/>
+      <rectRegion x="16.71900" y="0.00000" w="66.71900" h="14.44400" t="0:14:00.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_821107&amp;ei=A5Y2XOi6O4Ts8wT67o3ACQ&amp;feature=iv&amp;src_vid=Mj0giRAWV80&amp;v=vcPEb_BXWEY" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

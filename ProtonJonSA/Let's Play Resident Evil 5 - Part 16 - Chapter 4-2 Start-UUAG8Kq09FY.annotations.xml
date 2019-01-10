@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIsbSDyP7h3wIVCMDBCh0_mAgoKPgdMgJpdkjW6NPVit6BoFE">
+<annotation id="annotation_184876" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_333123">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_333123" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_333123" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUUAG8Kq09FY%23t%3D3m4s&amp;xble=1&amp;ei=6ZU2XPGbOYiAhwa_sKLAAg&amp;a-id=annotation_333123&amp;a-v=UUAG8Kq09FY&amp;a-type=3&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwixtIPI_uHfAhUIwMEKHT-YCCgo-B0yAml2SNbo09WK3oGgUQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="99.84400" h="12.77800" t="0:00:02.7"/>
+      <rectRegion x="0.00000" y="0.00000" w="99.84400" h="12.77800" t="0:00:09.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_333123&amp;ei=6ZU2XPGbOYiAhwa_sKLAAg&amp;feature=iv&amp;src_vid=UUAG8Kq09FY&amp;v=UUAG8Kq09FY#t=3m4s" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_565470" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9cdEHKrGXi4&amp;xble=1&amp;ei=6ZU2XPGbOYiAhwa_sKLAAg&amp;a-id=annotation_565470&amp;a-v=UUAG8Kq09FY&amp;a-type=1&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwixtIPI_uHfAhUIwMEKHT-YCCgo-B0yAml2SNbo09WK3oGgUQ">
+  <TEXT>Click the annotation to go to the next episode!
+
+Ways to fit Trilliant into your conversations:
+
+- Talk about gemstones.
+- Compare things you see to Trilliant gems.
+- Just say the word for no real reason and confuse the hell out of your friends or enemies.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.93700" y="13.05600" w="69.53100" h="71.94400" t="0:22:31.7"/>
+      <rectRegion x="15.93700" y="13.05600" w="69.53100" h="71.94400" t="0:22:50.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_565470&amp;ei=6ZU2XPGbOYiAhwa_sKLAAg&amp;feature=iv&amp;src_vid=UUAG8Kq09FY&amp;v=9cdEHKrGXi4" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

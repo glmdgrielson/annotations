@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2vOX6_7h3wIVd8bBCh18FgCGKPgdMgJpdkiGzL_N1brBxhc">
+<annotation id="annotation_15625" type="text" style="popup" log_data="a-v=F40F1Vmv5gY&amp;a-type=1&amp;xble=1&amp;a-id=annotation_15625&amp;ei=M5Y2XJqOKfeMhwb8rICwCA" itct="CAEQs-UBGP___________wEiEwja85fr_uHfAhV3xsEKHXwWAIYo-B0yAml2SIbMv83VusHGFw">
+  <TEXT>Videos Are Now Uploaded</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="31.45800" y="26.66700" w="35.00000" h="7.22200" t="0:00:25.7"/>
+      <rectRegion x="31.45800" y="26.66700" w="35.00000" h="7.22200" t="0:00:30.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_170577" type="highlight" log_data="a-v=F40F1Vmv5gY&amp;ei=M5Y2XJqOKfeMhwb8rICwCA&amp;a-type=3&amp;a-id=annotation_170577&amp;xble=1&amp;l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DTheRunawayGuys" itct="CAIQs-UBGP___________wEiEwja85fr_uHfAhV3xsEKHXwWAIYo-B0yAml2SIbMv83VusHGFw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="96.25000" h="99.44400" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="0.00000" w="96.25000" h="99.44400" t="0:02:31.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_170577&amp;ei=M5Y2XJqOKfeMhwb8rICwCA&amp;feature=iv&amp;src_vid=F40F1Vmv5gY&amp;user=TheRunawayGuys" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_876318" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Just Click The Screen To Go To The Channel</TEXT>
+  <segment spaceRelative="annotation_170577">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="93.33300" w="96.04200" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="93.33300" w="96.04200" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_170577" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

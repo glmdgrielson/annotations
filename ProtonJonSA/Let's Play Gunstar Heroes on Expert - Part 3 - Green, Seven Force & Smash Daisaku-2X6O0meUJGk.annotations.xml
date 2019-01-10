@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5PGb2f7h3wIVEt_BCh37ww-0KPgdMgJpdkjpyNC8ptqjv9kB">
+<annotation id="annotation_51881" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FThatOneVideoGamer&amp;a-v=2X6O0meUJGk&amp;ei=DZY2XKS3PJK-hwb7h7-gCw&amp;l-class=3&amp;a-id=annotation_51881&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjk8ZvZ_uHfAhUS38EKHfvDD7Qo-B0yAml2SOnI0Lym2qO_2QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="83.90600" y="0.00000" w="16.09400" h="100.00000" t="0:00:00.0"/>
+      <rectRegion x="83.90600" y="0.00000" w="16.09400" h="100.00000" t="0:21:01.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/ThatOneVideoGamer?annotation_id=annotation_51881&amp;ei=DZY2XKS3PJK-hwb7h7-gCw&amp;feature=iv&amp;src_vid=2X6O0meUJGk" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_539076" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to go to Jirard&#39;s Channel</TEXT>
+  <segment spaceRelative="annotation_51881">
+    <movingRegion type="rect">
+      <rectRegion x="-48.90600" y="94.44400" w="31.25000" h="5.55600" t="never"/>
+      <rectRegion x="-48.90600" y="94.44400" w="31.25000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_51881" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

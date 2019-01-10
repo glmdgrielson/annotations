@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6eHR0P7h3wIVAtCcCh3OPQnMKPgdMgJpdkiM7pnXiK31ursB">
+<annotation id="annotation_232881" type="highlight" log_data="xble=1&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVpoauIGloZI&amp;a-v=u3XVaIrmdww&amp;a-type=3&amp;a-id=annotation_232881&amp;ei=-5U2XKn4PIKg8wTO-6TgDA" itct="CAEQs-UBGP___________wEiEwjp4dHQ_uHfAhUC0JwKHc49Ccwo-B0yAml2SIzumdeIrfW6uwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.93700" y="13.33300" w="67.50000" h="74.16700" t="0:29:23.5"/>
+      <rectRegion x="15.93700" y="13.33300" w="67.50000" h="74.16700" t="0:29:39.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_232881&amp;ei=-5U2XKn4PIKg8wTO-6TgDA&amp;feature=iv&amp;src_vid=u3XVaIrmdww&amp;v=VpoauIGloZI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_808394" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Part 5 is posted and available for viewing.
+Click here to view the video.
+
+
+
+
+
+
+
+
+
+
+
+Also, Jon&#39;s a jerk or something.  It&#39;s late and I&#39;m an annotation, what do you want from me?</TEXT>
+  <segment spaceRelative="annotation_232881">
+    <movingRegion type="rect">
+      <rectRegion x="6.25000" y="1.66700" w="52.96900" h="67.77800" t="never"/>
+      <rectRegion x="6.25000" y="1.66700" w="52.96900" h="67.77800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_232881" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>
