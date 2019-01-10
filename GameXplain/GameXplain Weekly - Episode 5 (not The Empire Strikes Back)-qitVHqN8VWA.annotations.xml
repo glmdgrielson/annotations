@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMImL_k6Krk3wIVAYLBCh0bcA--KPgdMgJpdkjgqvGb6qPVlaoB">
+<annotation id="annotation_122379" type="highlight" log_data="l-class=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fgamexplain&amp;a-v=qitVHqN8VWA&amp;ei=wdA3XNjaEIGEhgab4L3wCw&amp;a-id=annotation_122379&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiYv-ToquTfAhUBgsEKHRtwD74o-B0yAml2SOCq8Zvqo9WVqgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="8.12500" y="36.11100" w="83.46900" h="30.00000" t="0:01:19.3"/>
+      <rectRegion x="8.12500" y="36.11100" w="83.46900" h="30.00000" t="0:01:24.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/gamexplain?annotation_id=annotation_122379&amp;ei=wdA3XNjaEIGEhgab4L3wCw&amp;feature=iv&amp;src_vid=qitVHqN8VWA" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_178986" type="highlight" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvyHAKFcoI0A&amp;a-v=qitVHqN8VWA&amp;ei=wdA3XNjaEIGEhgab4L3wCw&amp;a-id=annotation_178986&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwiYv-ToquTfAhUBgsEKHRtwD74o-B0yAml2SOCq8Zvqo9WVqgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="47.65600" y="27.50000" w="45.85200" h="46.69400" t="0:00:34.6"/>
+      <rectRegion x="47.65600" y="27.50000" w="45.85200" h="46.69400" t="0:00:39.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_178986&amp;ei=wdA3XNjaEIGEhgab4L3wCw&amp;feature=iv&amp;src_vid=qitVHqN8VWA&amp;v=vyHAKFcoI0A" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_336431" type="text" style="popup" log_data="l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dgamexplain&amp;a-v=qitVHqN8VWA&amp;ei=wdA3XNjaEIGEhgab4L3wCw&amp;a-id=annotation_336431&amp;a-type=1" itct="CAMQs-UBGP___________wEiEwiYv-ToquTfAhUBgsEKHRtwD74o-B0yAml2SOCq8Zvqo9WVqgE">
+  <TEXT>Click here to subscribe for more awesome videos!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="30.31200" y="15.27800" w="37.03100" h="16.11100" t="0:01:18.5"/>
+      <rectRegion x="30.31200" y="15.27800" w="37.03100" h="16.11100" t="0:01:24.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="4.8143" effects="textdropshadow">
+    <padding top="2.88858008385" left="1.62482619286" bottom="2.88858008385" right="2.16643500328"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=gamexplain&amp;annotation_id=annotation_336431&amp;ei=wdA3XNjaEIGEhgab4L3wCw&amp;feature=iv&amp;src_vid=qitVHqN8VWA" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_466071" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_178986">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_178986" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_787845" type="text" style="popup" log_data="l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dgamexplain&amp;a-v=qitVHqN8VWA&amp;ei=wdA3XNjaEIGEhgab4L3wCw&amp;a-id=annotation_787845&amp;a-type=1" itct="CAQQs-UBGP___________wEiEwiYv-ToquTfAhUBgsEKHRtwD74o-B0yAml2SOCq8Zvqo9WVqgE">
+  <TEXT>Subscribe!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.71900" y="0.00000" w="20.46900" h="10.83300" t="0:00:06.3"/>
+      <rectRegion x="36.71900" y="0.00000" w="20.46900" h="10.83300" t="0:01:18.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="4.8143" effects="textdropshadow">
+    <padding top="2.88858008385" left="1.62482619286" bottom="2.88858008385" right="2.16643500328"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=gamexplain&amp;annotation_id=annotation_787845&amp;ei=wdA3XNjaEIGEhgab4L3wCw&amp;feature=iv&amp;src_vid=qitVHqN8VWA" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_999840" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_122379">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_122379" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:56aa5527-0000-2093-b3f2-94eb2c08a290" style="branding" type="branding"
+            log_data="a-type=10&amp;a-ch=UCfAPTv1LgeEWevG8X_6PUOQ&amp;link-id=UCfAPTv1LgeEWevG8X_6PUOQ&amp;a-v=qitVHqN8VWA&amp;ei=wdA3XNjaEIGEhgab4L3wCw&amp;xble=0&amp;a-id=56aa5527-0000-2093-b3f2-94eb2c08a290&amp;l-class=3">
+  <data>{&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCfAPTv1LgeEWevG8X_6PUOQ&quot;,&quot;image_type&quot;:1,&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/fAPTv1LgeEWevG8X_6PUOQ\/featured_channel.jpg?v=56ad33c2&quot;,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCJi_5Oiq5N8CFQGCwQodG3APvij4HTICaXZI4Krxm-qj1ZWqAQ&quot;,&quot;src_vid&quot;:&quot;qitVHqN8VWA&quot;,&quot;annotation_id&quot;:&quot;56aa5527-0000-2093-b3f2-94eb2c08a290&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;wdA3XNjaEIGEhgab4L3wCw&quot;},&quot;channel_name&quot;:&quot;GameXplain&quot;,&quot;num_subscribers&quot;:&quot;1095884&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;1M&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;1M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbXNBWFRHUWotMVJocWRGaDhwaVowN1p5QmdXUXxBQ3Jtc0ttM0JiT3FkSFVqSURKUjg0N1drSjZyZGVhZXpJNjlxNnFwcTNMaWZKbS1WZDV3YXdiNTRYb1Q2R05Lb0ZMTFUxTXJMaWpOeDJwczhfZEY5TWcyVk9PME9xRVQ4Tk9fdnc2TThoZWM5a2JHVy1BVkcyQzNlMmw1dVpWZHVMYnpRZ3lYN21taExTcDNjZExVbFgyZy1Vd3BFMXM1ZFNRT1JPYTVJX1F5WHprX3FuRHhmbjA2RUpfTV9QcU1RTnM5NUpxTU15SGhUYURvd0FEZk5qMnU5X3E0R3gtX1h1VUlRZjByV25ZdTlCVnQyZ2hnWVlB%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FGameXplain%26feature%3Div\u0026passive=true\u0026uilel=3\u0026hl=en\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false},&quot;use_standalone_subscribe_button&quot;:true,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:40,&quot;end_ms&quot;:84000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/GameXplain"/>
+  </action>
+</annotation></annotations></document>
