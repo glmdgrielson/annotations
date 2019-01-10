@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzd2sud3j3wIVZ9HBCh0K2QgCKPgdMgJpdkip5sb2lczrpFw">
+<annotation id="annotation_3535619689" type="highlight" log_data="xble=1&amp;l-class=3&amp;a-id=annotation_3535619689&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FCSGuitar89&amp;a-type=3&amp;a-v=XEmuYV7Rsyk&amp;ei=oH83XM2NEOeihwaKsqMQ" itct="CAEQs-UBGP___________wEiEwjN3ay53ePfAhVn0cEKHQrZCAIo-B0yAml2SKnmxvaVzOukXA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.15400" y="39.43700" w="14.85700" h="6.64800" t="2:55.857"/>
+      <rectRegion x="13.15400" y="39.43700" w="14.85700" h="6.64800" t="3:01.500"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/CSGuitar89?annotation_id=annotation_3535619689&amp;ei=oH83XM2NEOeihwaKsqMQ&amp;feature=iv&amp;src_vid=XEmuYV7Rsyk" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3614812891" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>CSGuitar89&#39;s Youtube Channel!</TEXT>
+  <segment spaceRelative="annotation_3535619689">
+    <movingRegion type="rect">
+      <rectRegion x="-0.47500" y="8.16900" w="16.59300" h="12.47900" t="never"/>
+      <rectRegion x="-0.47500" y="8.16900" w="16.59300" h="12.47900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3535619689" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

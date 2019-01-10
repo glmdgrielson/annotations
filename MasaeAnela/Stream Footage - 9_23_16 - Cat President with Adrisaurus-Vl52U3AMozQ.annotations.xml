@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIoeSOqdvj3wIVxLWcCh2KSQNaKPgdMgJpdki0xrKAt8qdr1Y">
+<annotation id="annotation_3424184733" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_865887487">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_865887487" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_865887487" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fadrisaurus&amp;a-v=Vl52U3AMozQ&amp;l-class=3&amp;xble=1&amp;ei=ZX03XOGdFcTr8gSKk43QBQ&amp;a-id=annotation_865887487&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwih5I6p2-PfAhXEtZwKHYpJA1oo-B0yAml2SLTGsoC3yp2vVg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="44.69100" y="27.32400" w="10.73700" h="18.76100" t="0:00.000"/>
+      <rectRegion x="44.69100" y="27.32400" w="10.73700" h="18.76100" t="0:12.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/adrisaurus?annotation_id=annotation_865887487&amp;ei=ZX03XOGdFcTr8gSKk43QBQ&amp;feature=iv&amp;src_vid=Vl52U3AMozQ" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>
