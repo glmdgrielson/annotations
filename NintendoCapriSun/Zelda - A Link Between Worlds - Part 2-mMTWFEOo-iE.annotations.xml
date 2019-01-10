@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgczHponi3wIVS-PBCh2-ZgLfKPgdMgJpdkih9KOdxMK14pgB">
+<annotation id="annotation_1171491873" type="highlight" log_data="a-type=3&amp;a-v=mMTWFEOo-iE&amp;l-class=5&amp;a-id=annotation_1171491873&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNintendoCapriSun%3Fsub_confirmation%3D1&amp;ei=LKE2XIGGIcvGhwa-zYn4DQ" itct="CAEQs-UBGP___________wEiEwiBzMemieLfAhVL48EKHb5mAt8o-B0yAml2SKH0o53EwrXimAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="42.88400" y="84.83100" w="18.97800" h="13.42300" t="17:25.200"/>
+      <rectRegion x="42.88400" y="84.83100" w="18.97800" h="13.42300" t="17:43.147"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/NintendoCapriSun?annotation_id=annotation_1171491873&amp;ei=LKE2XIGGIcvGhwa-zYn4DQ&amp;feature=iv&amp;src_vid=mMTWFEOo-iE&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1310654717" type="text" style="popup" log_data="a-type=1&amp;a-v=mMTWFEOo-iE&amp;l-class=1&amp;a-id=annotation_1310654717&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZZW1E-FpFFU&amp;ei=LKE2XIGGIcvGhwa-zYn4DQ" itct="CAIQs-UBGP___________wEiEwiBzMemieLfAhVL48EKHb5mAt8o-B0yAml2SKH0o53EwrXimAE">
+  
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.04800" y="81.69000" w="29.84200" h="16.12700" t="17:24.000"/>
+      <rectRegion x="70.04800" y="81.69000" w="29.84200" h="16.12700" t="17:43.147"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1310654717&amp;ei=LKE2XIGGIcvGhwa-zYn4DQ&amp;feature=iv&amp;src_vid=mMTWFEOo-iE&amp;v=ZZW1E-FpFFU" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1976257889" type="highlight" log_data="a-type=3&amp;a-v=mMTWFEOo-iE&amp;l-class=1&amp;a-id=annotation_1976257889&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dmvs16RImIOU&amp;ei=LKE2XIGGIcvGhwa-zYn4DQ" itct="CAMQs-UBGP___________wEiEwiBzMemieLfAhVL48EKHb5mAt8o-B0yAml2SKH0o53EwrXimAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.66600" y="82.57700" w="33.14600" h="14.53500" t="17:25.000"/>
+      <rectRegion x="0.66600" y="82.57700" w="33.14600" h="14.53500" t="17:43.147"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1976257889&amp;ei=LKE2XIGGIcvGhwa-zYn4DQ&amp;feature=iv&amp;src_vid=mMTWFEOo-iE&amp;v=mvs16RImIOU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2365493119" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1171491873">
+    <movingRegion type="rect">
+      <rectRegion x="-1.74300" y="6.43700" w="22.56700" h="8.73200" t="never"/>
+      <rectRegion x="-1.74300" y="6.43700" w="22.56700" h="8.73200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1171491873" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2833744695" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1976257889">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="13.19700" w="33.07400" h="4.22500" t="never"/>
+      <rectRegion x="0.00000" y="13.19700" w="33.07400" h="4.22500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1976257889" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2879078631" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=mMTWFEOo-iE&amp;ei=LKE2XIGGIcvGhwa-zYn4DQ&amp;a-id=annotation_2879078631" itct="CAQQs-UBGP___________wEiEwiBzMemieLfAhVL48EKHb5mAt8o-B0yAml2SKH0o53EwrXimAE">
+  <TEXT>Sorry again about the quiet, tinny game sound.  Part 3 is when I finally get that crap fixed!  Also I mess around a LOT in this part for some reason.  Then again, sometimes that&#39;s the most fun part of Zelda.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.64500" y="43.94400" w="58.84300" h="24.66200" t="0:00.000"/>
+      <rectRegion x="3.64500" y="43.94400" w="58.84300" h="24.66200" t="0:09.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="8148142" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>
