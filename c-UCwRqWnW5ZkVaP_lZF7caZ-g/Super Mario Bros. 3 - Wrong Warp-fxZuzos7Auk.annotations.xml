@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgJugu7zk3wIVRdtgCh0Vug49KPgdMgJpdkjphezZ6Nmbi38">
+<annotation id="annotation_1872096653" type="highlight" log_data="l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvAHXK2wut_I&amp;a-v=fxZuzos7Auk&amp;ei=QeM3XMD2JcW2gwOV9LroAw&amp;a-id=annotation_1872096653&amp;xble=1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiAm6C7vOTfAhVF22AKHRW6Dj0o-B0yAml2SOmF7Nno2ZuLfw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="42.56700" y="24.26800" w="38.78800" h="39.05600" t="9:47.951"/>
+      <rectRegion x="42.56700" y="24.26800" w="38.78800" h="39.05600" t="10:06.249"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1872096653&amp;ei=QeM3XMD2JcW2gwOV9LroAw&amp;feature=iv&amp;src_vid=fxZuzos7Auk&amp;v=vAHXK2wut_I" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2085097811" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Super Mario World: Random Number Generation</TEXT>
+  <segment spaceRelative="annotation_3923986695">
+    <movingRegion type="rect">
+      <rectRegion x="-0.41200" y="41.08500" w="39.09700" h="6.00000" t="never"/>
+      <rectRegion x="-0.41200" y="41.08500" w="39.09700" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3923986695" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2684595083" type="highlight" log_data="l-class=8&amp;link=https%3A%2F%2Fwww.patreon.com%2Frgmechex&amp;a-v=fxZuzos7Auk&amp;ei=QeM3XMD2JcW2gwOV9LroAw&amp;a-id=annotation_2684595083&amp;xble=1&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwiAm6C7vOTfAhVF22AKHRW6Dj0o-B0yAml2SOmF7Nno2ZuLfw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="82.82100" y="70.74600" w="17.17900" h="29.25400" t="9:47.951"/>
+      <rectRegion x="82.82100" y="70.74600" w="17.17900" h="29.25400" t="10:06.249"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.patreon.com/rgmechex" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3263539119" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Support Me!</TEXT>
+  <segment spaceRelative="annotation_2684595083">
+    <movingRegion type="rect">
+      <rectRegion x="1.64800" y="21.08500" w="14.53200" h="5.71800" t="never"/>
+      <rectRegion x="1.64800" y="21.08500" w="14.53200" h="5.71800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2684595083" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3923986695" type="highlight" log_data="l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq15yNrJHOak&amp;a-v=fxZuzos7Auk&amp;ei=QeM3XMD2JcW2gwOV9LroAw&amp;a-id=annotation_3923986695&amp;xble=1&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwiAm6C7vOTfAhVF22AKHRW6Dj0o-B0yAml2SOmF7Nno2ZuLfw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.47200" y="23.98600" w="38.78800" h="39.90100" t="9:47.951"/>
+      <rectRegion x="2.47200" y="23.98600" w="38.78800" h="39.90100" t="10:06.249"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3923986695&amp;ei=QeM3XMD2JcW2gwOV9LroAw&amp;feature=iv&amp;src_vid=fxZuzos7Auk&amp;v=q15yNrJHOak" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_710166231" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Super Mario World: Credits Warp</TEXT>
+  <segment spaceRelative="annotation_1872096653">
+    <movingRegion type="rect">
+      <rectRegion x="5.61000" y="40.23900" w="27.21900" h="5.07000" t="never"/>
+      <rectRegion x="5.61000" y="40.23900" w="27.21900" h="5.07000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1872096653" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

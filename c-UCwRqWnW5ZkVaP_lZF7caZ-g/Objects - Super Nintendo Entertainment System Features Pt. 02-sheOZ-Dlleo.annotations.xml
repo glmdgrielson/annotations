@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIp8X1ubzk3wIVBd-cCh3UJgZtKPgdMgJpdkjqq5aH_szji7IB">
+<annotation id="annotation_1913471207" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D57ibhDU2SAI&amp;l-class=1&amp;ei=PuM3XKeuMoW-8wTUzZjoBg&amp;a-v=sheOZ-Dlleo&amp;a-type=3&amp;a-id=annotation_1913471207" itct="CAEQs-UBGP___________wEiEwinxfW5vOTfAhUF35wKHdQmBm0o-B0yAml2SOqrlof-zOOLsgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.10900" y="24.50700" w="38.94600" h="39.05600" t="5:36.985"/>
+      <rectRegion x="1.10900" y="24.50700" w="38.94600" h="39.05600" t="5:55.543"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1913471207&amp;ei=PuM3XKeuMoW-8wTUzZjoBg&amp;feature=iv&amp;src_vid=sheOZ-Dlleo&amp;v=57ibhDU2SAI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2118756653" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>SNES Features: Graphics &amp; Palettes</TEXT>
+  <segment spaceRelative="annotation_1913471207">
+    <movingRegion type="rect">
+      <rectRegion x="-0.15800" y="40.28200" w="39.26300" h="5.57700" t="never"/>
+      <rectRegion x="-0.15800" y="40.28200" w="39.26300" h="5.57700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1913471207" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2162252531" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>SMW: Random Number Generation</TEXT>
+  <segment spaceRelative="annotation_2495909623">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="40.14100" w="39.42200" h="5.71800" t="never"/>
+      <rectRegion x="0.00000" y="40.14100" w="39.42200" h="5.71800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2495909623" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2495909623" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq15yNrJHOak&amp;l-class=1&amp;ei=PuM3XKeuMoW-8wTUzZjoBg&amp;a-v=sheOZ-Dlleo&amp;a-type=3&amp;a-id=annotation_2495909623" itct="CAIQs-UBGP___________wEiEwinxfW5vOTfAhUF35wKHdQmBm0o-B0yAml2SOqrlof-zOOLsgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.61600" y="23.98600" w="39.42200" h="40.18300" t="5:36.972"/>
+      <rectRegion x="41.61600" y="23.98600" w="39.42200" h="40.18300" t="5:55.543"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2495909623&amp;ei=PuM3XKeuMoW-8wTUzZjoBg&amp;feature=iv&amp;src_vid=sheOZ-Dlleo&amp;v=q15yNrJHOak" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2877679685" type="text" style="popup" log_data="a-v=sheOZ-Dlleo&amp;xble=1&amp;a-id=annotation_2877679685&amp;a-type=1&amp;ei=PuM3XKeuMoW-8wTUzZjoBg" itct="CAMQs-UBGP___________wEiEwinxfW5vOTfAhUF35wKHdQmBm0o-B0yAml2SOqrlof-zOOLsgE">
+  <TEXT>Amendment: Priority bits only effect an object&#39;s priority against background layers, and NOT other objects. Only an object&#39;s position in OAM determines their priority against other objects. (Thanks leod) This can lead to odd clipping effects. (See the video on Backgrounds for more info)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.17000" y="70.14100" w="59.16000" h="26.07000" t="2:23.257"/>
+      <rectRegion x="3.17000" y="70.14100" w="59.16000" h="26.07000" t="2:31.685"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3671919085" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Patreon</TEXT>
+  <segment spaceRelative="annotation_3892315847">
+    <movingRegion type="rect">
+      <rectRegion x="2.21900" y="1.93000" w="13.94600" h="25.63400" t="never"/>
+      <rectRegion x="2.21900" y="1.93000" w="13.94600" h="25.63400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3892315847" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3892315847" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.patreon.com%2FRGMechEx&amp;l-class=8&amp;ei=PuM3XKeuMoW-8wTUzZjoBg&amp;a-v=sheOZ-Dlleo&amp;a-type=3&amp;a-id=annotation_3892315847" itct="CAQQs-UBGP___________wEiEwinxfW5vOTfAhUF35wKHdQmBm0o-B0yAml2SOqrlof-zOOLsgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="83.83500" y="72.43700" w="16.16500" h="27.56300" t="5:36.917"/>
+      <rectRegion x="83.83500" y="72.43700" w="16.16500" h="27.56300" t="5:55.543"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.patreon.com/RGMechEx" link_class="8"/>
+  </action>
+
+</annotation>
+</annotations></document>
