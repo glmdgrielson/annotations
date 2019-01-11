@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI4uq65rPk3wIVZtHBCh2lMg19KPgdMgJpdkjhgof445LDy2I">
+<annotation id="annotation_1867889903" type="text" style="popup" log_data="a-id=annotation_1867889903&amp;a-type=1&amp;xble=1&amp;a-v=YpcMlj8BwWE&amp;ei=LNo3XOKkE-aihwal5bToBw" itct="CAEQs-UBGP___________wEiEwji6rrms-TfAhVm0cEKHaUyDX0o-B0yAml2SOGCh_jjksPLYg">
+  <TEXT>Note: The HOLP is a variable stored by the game. It represents the coordinates of the last position Mario held an object. It updates continuously as Mario holds an object, and is where thrown objects appear. However, when Mario has his hat in his hand, the HOLP doesn&#39;t update, and so released objects appear wherever the HOLP was set last, which in this case is at the next step of the goomba staircase.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="100.00000" h="22.20800" t="9:26.390"/>
+      <rectRegion x="0.00000" y="0.00000" w="100.00000" h="22.20800" t="9:35.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>
