@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIn8fow7vk3wIVhdLBCh1OLwpuKPgdMgJpdkiqiu_IibKF9hI">
+<annotation id="annotation_1041499775" type="highlight" log_data="ei=R-I3XN-HCYWlhwbO3qjwBg&amp;xble=1&amp;a-type=3&amp;a-id=annotation_1041499775&amp;a-v=EuwVkJkbxSo" itct="CAEQs-UBGP___________wEiEwifx-jDu-TfAhWF0sEKHU4vCm4o-B0yAml2SKqK78iJsoX2Eg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.69400" y="78.31000" w="16.60100" h="17.91900" t="0:25.536"/>
+      <rectRegion x="2.69400" y="78.31000" w="16.60100" h="17.91900" t="0:32.675"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_2842025119" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Coming Soon!</TEXT>
+  <segment spaceRelative="annotation_1041499775">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="-7.33800" w="16.60100" h="4.80300" t="never"/>
+      <rectRegion x="0.00000" y="-7.33800" w="16.60100" h="4.80300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1041499775" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>
