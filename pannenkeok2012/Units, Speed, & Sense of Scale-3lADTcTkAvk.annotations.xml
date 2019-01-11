@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIt-aUyrrk3wIVJo6cCh32CgnEKPgdMgJpdkj5hZCn3OmAqN4B">
+<annotation id="annotation_1354036043" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_1354036043&amp;xble=1&amp;ei=SOE3XLeiAaac8gT2laSgDA&amp;a-v=3lADTcTkAvk" itct="CAEQs-UBGP___________wEiEwi35pTKuuTfAhUmjpwKHfYKCcQo-B0yAml2SPmFkKfc6YCo3gE">
+  <TEXT>Update: Mario can actually fit into a space so long as there&#39;s &gt;160 height, so for example 160.001 would work. (Of course in practice, all flat ceilings have integer heights, so 161 would be the smallest height you&#39;d find practice.)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="42.82900" h="31.70400" t="1:28.200"/>
+      <rectRegion x="0.00000" y="0.00000" w="42.82900" h="31.70400" t="1:35.800"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2614044821" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_2614044821&amp;xble=1&amp;ei=SOE3XLeiAaac8gT2laSgDA&amp;a-v=3lADTcTkAvk" itct="CAIQs-UBGP___________wEiEwi35pTKuuTfAhUmjpwKHfYKCcQo-B0yAml2SPmFkKfc6YCo3gE">
+  <TEXT>31.5</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.57700" y="81.40800" w="6.54500" h="7.47900" t="3:03.000"/>
+      <rectRegion x="56.57700" y="81.40800" w="6.54500" h="7.47900" t="3:11.300"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_804367745" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_804367745&amp;xble=1&amp;ei=SOE3XLeiAaac8gT2laSgDA&amp;a-v=3lADTcTkAvk" itct="CAMQs-UBGP___________wEiEwi35pTKuuTfAhUmjpwKHfYKCcQo-B0yAml2SPmFkKfc6YCo3gE">
+  <TEXT>I realized I forgot to explain how angles work in this video. In a circle, there are 65536 angle units, spanning from 0 to 65535. In terms of the X/Z axes, the angle spectrum starts at Z+ and goes counterclockwise. Thus:
+Z+ = angle 0
+X+ = angle 16384
+Z- = angle 32768
+X- = angle 49152</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.63400" y="1.69000" w="42.03600" h="49.15500" t="0:15.000"/>
+      <rectRegion x="0.63400" y="1.69000" w="42.03600" h="49.15500" t="0:22.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

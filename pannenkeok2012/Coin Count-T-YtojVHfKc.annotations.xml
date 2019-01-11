@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzPOFn7rk3wIVZtHBCh1CxQ7tKPgdMgJpdkin-Z2qo7SL808">
+<annotation id="annotation_2215249491" type="text" style="popup" log_data="a-id=annotation_2215249491&amp;a-type=1&amp;xble=1&amp;a-v=T-YtojVHfKc&amp;ei=7eA3XIzJJOaihwbCirvoDg" itct="CAEQs-UBGP___________wEiEwjM84WfuuTfAhVm0cEKHULFDu0o-B0yAml2SKf5naqjtIvzTw">
+  <TEXT>Update: The coin counter will actually count up by 1 every 2 frames if the coin display is ≤70, but count up by 1 every 1 frame if the coin display is &gt;70.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.77700" y="0.00000" w="78.64500" h="23.25400" t="12:20.500"/>
+      <rectRegion x="10.77700" y="0.00000" w="78.64500" h="23.25400" t="12:46.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2463876407" type="text" style="popup" log_data="a-id=annotation_2463876407&amp;a-type=1&amp;xble=1&amp;a-v=T-YtojVHfKc&amp;ei=7eA3XIzJJOaihwbCirvoDg" itct="CAIQs-UBGP___________wEiEwjM84WfuuTfAhVm0cEKHULFDu0o-B0yAml2SKf5naqjtIvzTw">
+  <TEXT>Clarification: Each of the 120 stars in the game has a specific bit in memory that&#39;s 0 if that star&#39;s never been collected, and 1 if that star has been collected. When you collect a star, that star&#39;s bit is set to 1 (even if it&#39;s already 1), and then the total amount of 1 bits its summed up and the star count is updated to that sum. So collecting SL&#39;s 100 coin star over and over (even though the star&#39;s yellow) just sets that star&#39;s bit to 1 over and over, and so it doesn&#39;t affect the star count after the star&#39;s been collected once already. That&#39;s why we can&#39;t exceed 120 stars, NOT because the star count is capped at 120.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.25200" y="0.00000" w="77.98500" h="38.46900" t="8:23.000"/>
+      <rectRegion x="11.25200" y="0.00000" w="77.98500" h="38.46900" t="8:44.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>
