@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzoyHiLrk3wIVUOrBCh0-cw7eKPgdMgJpdkitpLDR0On_kjk">
+<annotation id="annotation_891009" type="highlight" log_data="a-v=OSX_TQosEi0&amp;a-id=annotation_891009&amp;ei=veA3XI66F9DUhwa-5rnwDQ&amp;xble=1&amp;l-class=2&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC" itct="CAEQs-UBGP___________wEiEwjOjIeIuuTfAhVQ6sEKHT5zDt4o-B0yAml2SK2ksNHQ6f-SOQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="90.00000" w="11.71900" h="10.00000" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="90.00000" w="11.71900" h="10.00000" t="0:20:26.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_891009&amp;ei=veA3XI66F9DUhwa-5rnwDQ&amp;feature=iv&amp;list=PLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC&amp;src_vid=OSX_TQosEi0" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_967382" type="text" style="popup" log_data="a-id=annotation_967382&amp;ei=veA3XI66F9DUhwa-5rnwDQ&amp;xble=1&amp;a-v=OSX_TQosEi0&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwjOjIeIuuTfAhVQ6sEKHT5zDt4o-B0yAml2SK2ksNHQ6f-SOQ">
+  <TEXT>By &quot;Explosion&quot; I probably mean SelfDestruct lol</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="30.00000" h="13.33300" t="0:06:09.0"/>
+      <rectRegion x="0.00000" y="0.00000" w="30.00000" h="13.33300" t="0:06:14.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_984445" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Watch the Playlist!</TEXT>
+  <segment spaceRelative="annotation_891009">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="-16.38900" w="11.56300" h="10.00000" t="never"/>
+      <rectRegion x="0.00000" y="-16.38900" w="11.56300" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_891009" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

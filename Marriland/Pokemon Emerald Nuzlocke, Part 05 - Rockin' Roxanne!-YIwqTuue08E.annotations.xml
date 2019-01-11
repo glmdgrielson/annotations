@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2N_Djbrk3wIVCejBCh3NzA6pKPgdMgJpdkjBp_vc7smKxmA">
+<annotation id="annotation_274874" type="text" style="anchored" log_data="a-id=annotation_274874&amp;a-type=8&amp;xble=1&amp;a-v=YIwqTuue08E&amp;ei=yOA3XNjbNInQhwbNmbvICg" itct="CAEQs-UBGP___________wEiEwjY38ONuuTfAhUJ6MEKHc3MDqko-B0yAml2SMGn-9zuyYrGYA">
+  <TEXT>If multiple people choose the same episode and I catch it in that episode, I&#39;ll choose at random from the correct guesses, so don&#39;t worry if someone already guessed your number!</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="17.34400" y="7.77800" w="42.50000" h="26.66700" sx="37.8129997253" sy="36.6669998169" t="0:02:34.6"/>
+      <anchoredRegion x="17.34400" y="7.77800" w="42.50000" h="26.66700" sx="37.8129997253" sy="36.6669998169" t="0:02:49.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_487765" type="highlight" log_data="a-type=3&amp;ei=yOA3XNjbNInQhwbNmbvICg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC&amp;a-id=annotation_487765&amp;xble=1&amp;a-v=YIwqTuue08E&amp;l-class=2" itct="CAIQs-UBGP___________wEiEwjY38ONuuTfAhUJ6MEKHc3MDqko-B0yAml2SMGn-9zuyYrGYA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="89.44400" w="11.71900" h="10.55600" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="89.44400" w="11.71900" h="10.55600" t="0:38:13.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_487765&amp;ei=yOA3XNjbNInQhwbNmbvICg&amp;feature=iv&amp;list=PLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC&amp;src_vid=YIwqTuue08E" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_674814" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Watch the Playlist!</TEXT>
+  <segment spaceRelative="annotation_487765">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="-16.94400" w="11.71900" h="10.00000" t="never"/>
+      <rectRegion x="0.00000" y="-16.94400" w="11.71900" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_487765" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_677744" type="text" style="anchored" log_data="a-type=8&amp;ei=yOA3XNjbNInQhwbNmbvICg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYIwqTuue08E%23t%3D4m10s&amp;a-id=annotation_677744&amp;xble=1&amp;a-v=YIwqTuue08E&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwjY38ONuuTfAhUJ6MEKHc3MDqko-B0yAml2SMGn-9zuyYrGYA">
+  <TEXT>Don&#39;t want to hear me reply to comments/answer questions? Skip to 4:10!</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="23.28100" y="15.27800" w="30.62500" h="18.33300" sx="37.34400177" sy="35.8330001831" t="0:00:01.0"/>
+      <anchoredRegion x="23.28100" y="15.27800" w="30.62500" h="18.33300" sx="37.34400177" sy="35.8330001831" t="0:00:16.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_677744&amp;ei=yOA3XNjbNInQhwbNmbvICg&amp;feature=iv&amp;src_vid=YIwqTuue08E&amp;v=YIwqTuue08E#t=4m10s" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

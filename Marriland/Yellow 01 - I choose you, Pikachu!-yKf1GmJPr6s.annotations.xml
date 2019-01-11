@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIq7Gb8rzk3wIVNNjBCh045QqfKPgdMgJpdkir376SpqP908gB">
+<annotation id="annotation_267999" type="text" style="popup" log_data="a-id=annotation_267999&amp;ei=tOM3XKuHNrSwhwa4yqv4CQ&amp;a-type=1&amp;xble=1&amp;a-v=yKf1GmJPr6s" itct="CAEQs-UBGP___________wEiEwirsZvyvOTfAhU02MEKHTjlCp8o-B0yAml2SKvfvpKmo_3TyAE">
+  <TEXT>Yes, I&#39;m playing this on a Gameboy Player for the Gamecube. That&#39;s what&#39;s up with the border.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="24.84400" h="26.66700" t="0:00:12.4"/>
+      <rectRegion x="0.00000" y="0.00000" w="24.84400" h="26.66700" t="0:00:17.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_280050" type="text" style="popup" log_data="a-v=yKf1GmJPr6s&amp;a-id=annotation_280050&amp;a-type=1&amp;l-class=2&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL55EF9891E3AB41AB&amp;xble=1&amp;ei=tOM3XKuHNrSwhwa4yqv4CQ" itct="CAIQs-UBGP___________wEiEwirsZvyvOTfAhU02MEKHTjlCp8o-B0yAml2SKvfvpKmo_3TyAE">
+  <TEXT>Watch the entire Yellow Adventure series in a playlist! CLICK MEH! :)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.37500" y="91.11100" w="72.34400" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="14.37500" y="91.11100" w="72.34400" h="8.88900" t="0:00:10.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="4210330" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_280050&amp;ei=tOM3XKuHNrSwhwa4yqv4CQ&amp;feature=iv&amp;list=PL55EF9891E3AB41AB&amp;src_vid=yKf1GmJPr6s" link_class="2"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_4581" type="text" style="popup" log_data="a-v=yKf1GmJPr6s&amp;a-id=annotation_4581&amp;a-type=1&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DMarriland&amp;xble=1&amp;ei=tOM3XKuHNrSwhwa4yqv4CQ" itct="CAMQs-UBGP___________wEiEwirsZvyvOTfAhU02MEKHTjlCp8o-B0yAml2SKvfvpKmo_3TyAE">
+  <TEXT>^- SUBSCRIBE to Marriland because NEW YELLOW EPISODES ARE COMING!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="29.68800" h="17.77800" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="0.00000" w="29.68800" h="17.77800" t="0:00:10.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="13319742" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=Marriland&amp;annotation_id=annotation_4581&amp;ei=tOM3XKuHNrSwhwa4yqv4CQ&amp;feature=iv&amp;src_vid=yKf1GmJPr6s" link_class="5"/>
+  </action>
+
+</annotation></annotations></document>

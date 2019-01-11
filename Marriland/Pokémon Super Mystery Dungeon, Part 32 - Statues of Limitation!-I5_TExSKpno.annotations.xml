@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIxuG3m7bk3wIVw7mcCh2zBw43KPgdMgJpdkj6zKqkseL0zyM">
+<annotation id="annotation_2125760627" type="highlight" log_data="ei=tNw3XMa3EcPz8gSzj7i4Aw&amp;a-type=3&amp;link=https%3A%2F%2Fpatreon.com%2FMarriland&amp;a-v=I5_TExSKpno&amp;xble=1&amp;l-class=8&amp;a-id=annotation_2125760627" itct="CAEQs-UBGP___________wEiEwjG4bebtuTfAhXDuZwKHbMHDjco-B0yAml2SPrMqqSx4vTPIw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="71.63200" y="28.16900" w="7.56700" h="6.08800" t="0:13.916"/>
+      <rectRegion x="71.63200" y="28.16900" w="7.56700" h="6.08800" t="23:25.201"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://patreon.com/Marriland" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2339542923" type="highlight" log_data="ei=tNw3XMa3EcPz8gSzj7i4Aw&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FMarriland%3Fsub_confirmation%3D1&amp;a-v=I5_TExSKpno&amp;xble=1&amp;l-class=5&amp;a-id=annotation_2339542923" itct="CAIQs-UBGP___________wEiEwjG4bebtuTfAhXDuZwKHbMHDjco-B0yAml2SPrMqqSx4vTPIw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="71.47400" y="20.00000" w="7.88400" h="7.21100" t="0:13.916"/>
+      <rectRegion x="71.47400" y="20.00000" w="7.88400" h="7.21100" t="23:25.201"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/Marriland?annotation_id=annotation_2339542923&amp;ei=tNw3XMa3EcPz8gSzj7i4Aw&amp;feature=iv&amp;src_vid=I5_TExSKpno&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3421339455" type="highlight" log_data="ei=tNw3XMa3EcPz8gSzj7i4Aw&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLgYcvjQqu5W7xLvCxfUttOiBleLw9nc6p&amp;a-v=I5_TExSKpno&amp;xble=1&amp;l-class=2&amp;a-id=annotation_3421339455" itct="CAMQs-UBGP___________wEiEwjG4bebtuTfAhXDuZwKHbMHDjco-B0yAml2SPrMqqSx4vTPIw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="71.31500" y="35.49300" w="8.04300" h="6.65100" t="0:13.916"/>
+      <rectRegion x="71.31500" y="35.49300" w="8.04300" h="6.65100" t="23:25.201"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_3421339455&amp;ei=tNw3XMa3EcPz8gSzj7i4Aw&amp;feature=iv&amp;list=PLgYcvjQqu5W7xLvCxfUttOiBleLw9nc6p&amp;src_vid=I5_TExSKpno" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3456254833" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2339542923">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2339542923" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4162559911" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3421339455">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3421339455" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4283285337" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2125760627">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2125760627" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:5c3505c5-1886-40d6-ab58-fafda2749b01" style="simple" type="card" log_data="a-ch=UCe2yn-ptTl529JPheQgzm_A&amp;a-id=5c3505c5-1886-40d6-ab58-fafda2749b01&amp;a-type=61&amp;a-v=I5_TExSKpno&amp;ei=tNw3XMa3EcPz8gSzj7i4Aw&amp;l-class=8&amp;link=https%3A%2F%2Fwww.patreon.com%2FMarriland&amp;xble=0">
+  <data>{&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;card_type&quot;:&quot;simple&quot;,&quot;url&quot;:&quot;\/redirect?q=https%3A%2F%2Fwww.patreon.com%2FMarriland\u0026redir_token=5drcRWgwFHr7cMvryVKko8Mo2v58MTU0NzI1MTI1MkAxNTQ3MTY0ODUy\u0026event=infocard&quot;,&quot;meta_info&quot;:[],&quot;timestamp&quot;:1449782615851,&quot;display_domain&quot;:&quot;patreon.com&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;teaser_text&quot;:&quot;Want to help out Marriland?&quot;,&quot;sponsored&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;show_link_icon&quot;:true,&quot;title&quot;:&quot;Support Marriland on Patreon!&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/teeJ_cCycMvxNjBTp30gH1AZHkspDx8IjNWVV5m9VaGhNMqxpxIA6Oslhd7rMz0DMbzKTS8XE8lJmk4YIaJsJ43Oh2WCkvksGSFmBTfcjtSlfluYnS8UbkCuopU9sDsH9qcm3rUvLpwV49VG8mdgt1sHFvnPJIyd_0NwER5G36opZ40l0cXLju-FnA=s300-c&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;I5_TExSKpno&quot;,&quot;ei&quot;:&quot;tNw3XMa3EcPz8gSzj7i4Aw&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCMbht5u25N8CFcO5nAodswcONyj4HTIFY2FyZHNI-syqpLHi9M8j&quot;,&quot;annotation_id&quot;:&quot;5c3505c5-1886-40d6-ab58-fafda2749b01&quot;},&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjG4bebtuTfAhXDuZwKHbMHDjco-B0yBWNhcmRzSPrMqqSx4vTPIw&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCMbht5u25N8CFcO5nAodswcONyj4HTIFY2FyZHNI-syqpLHi9M8j&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCMbht5u25N8CFcO5nAodswcONyj4HTIFY2FyZHNI-syqpLHi9M8j&quot;},&quot;end_ms&quot;:1221,&quot;start_ms&quot;:1221,&quot;custom_message&quot;:&quot;Support me on Patreon today!&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?q=https%3A%2F%2Fwww.patreon.com%2FMarriland&amp;redir_token=5drcRWgwFHr7cMvryVKko8Mo2v58MTU0NzI1MTI1MkAxNTQ3MTY0ODUy&amp;event=infocard"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCMbht5u25N8CFcO5nAodswcONyj4HTIFY2FyZHNI+syqpLHi9M8j&quot;, 
+  &quot;eventId&quot;: &quot;tNw3XMa3EcPz8gSzj7i4Aw&quot;, 
+  &quot;headerText&quot;: &quot;From Marriland&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjG4bebtuTfAhXDuZwKHbMHDjco+B0yBWNhcmRzSPrMqqSx4vTPIw==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjG4bebtuTfAhXDuZwKHbMHDjco+B0yBWNhcmRzSPrMqqSx4vTPIw==&quot;
+}</data>
+</annotation>
+</annotations></document>

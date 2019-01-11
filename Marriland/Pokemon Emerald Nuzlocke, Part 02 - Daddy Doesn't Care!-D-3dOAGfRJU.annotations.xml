@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIobHTkrrk3wIVgabBCh2EWQXYKPgdMgJpdkiVif2MgKf39g8">
+<annotation id="annotation_65884" type="highlight" log_data="ei=0-A3XOH7JIHNhgaEs5XADQ&amp;l-class=2&amp;a-type=3&amp;a-id=annotation_65884&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC&amp;xble=1&amp;a-v=D-3dOAGfRJU" itct="CAEQs-UBGP___________wEiEwihsdOSuuTfAhWBpsEKHYRZBdgo-B0yAml2SJWJ_YyAp_f2Dw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="89.16700" w="11.71900" h="10.83300" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="89.16700" w="11.71900" h="10.83300" t="0:35:43.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_65884&amp;ei=0-A3XOH7JIHNhgaEs5XADQ&amp;feature=iv&amp;list=PLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC&amp;src_vid=D-3dOAGfRJU" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_697045" type="text" style="popup" log_data="a-v=D-3dOAGfRJU&amp;ei=0-A3XOH7JIHNhgaEs5XADQ&amp;xble=1&amp;a-type=1&amp;a-id=annotation_697045" itct="CAIQs-UBGP___________wEiEwihsdOSuuTfAhWBpsEKHYRZBdgo-B0yAml2SJWJ_YyAp_f2Dw">
+  <TEXT>Like this series? Hit &#39;dat like button! :D</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.65600" y="89.72200" w="46.87500" h="9.16700" t="0:00:00.5"/>
+      <rectRegion x="12.65600" y="89.72200" w="46.87500" h="9.16700" t="0:35:43.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_746412" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Watch the Playlist!</TEXT>
+  <segment spaceRelative="annotation_65884">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="-17.50000" w="11.71900" h="10.00000" t="never"/>
+      <rectRegion x="0.00000" y="-17.50000" w="11.71900" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_65884" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

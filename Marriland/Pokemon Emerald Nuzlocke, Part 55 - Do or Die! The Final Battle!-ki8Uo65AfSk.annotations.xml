@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgYi2u7nk3wIVR-vBCh03tQwJKPgdMgJpdkip-oHyupTFl5IB">
+<annotation id="annotation_150195" type="text" style="popup" log_data="a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DneyOWBN763Q&amp;a-v=ki8Uo65AfSk&amp;xble=1&amp;l-class=1&amp;a-id=annotation_150195&amp;ei=HOA3XIGKKcfWhwa36rJI" itct="CAEQs-UBGP___________wEiEwiBiLa7ueTfAhVH68EKHTe1DAko-B0yAml2SKn6gfK6lMWXkgE">
+  <TEXT>Music is &quot;RSE Verdanturf Town (Re-orchestrated)&quot; by HappyDragonite</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="75.15600" h="8.88900" t="0:27:06.3"/>
+      <rectRegion x="0.00000" y="0.00000" w="75.15600" h="8.88900" t="0:30:02.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_150195&amp;ei=HOA3XIGKKcfWhwa36rJI&amp;feature=iv&amp;src_vid=ki8Uo65AfSk&amp;v=neyOWBN763Q" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_771491" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC&amp;a-v=ki8Uo65AfSk&amp;xble=1&amp;l-class=2&amp;a-id=annotation_771491&amp;ei=HOA3XIGKKcfWhwa36rJI" itct="CAIQs-UBGP___________wEiEwiBiLa7ueTfAhVH68EKHTe1DAko-B0yAml2SKn6gfK6lMWXkgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="90.27800" w="11.56300" h="9.72200" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="90.27800" w="11.56300" h="9.72200" t="0:27:02.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_771491&amp;ei=HOA3XIGKKcfWhwa36rJI&amp;feature=iv&amp;list=PLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC&amp;src_vid=ki8Uo65AfSk" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_893889" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_771491">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="4.16700" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="4.16700" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_771491" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

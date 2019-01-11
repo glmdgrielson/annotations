@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMInf-Kmrfk3wIVjJycCh32cA8yKPgdMgJpdkionsaXvMbn_8wB">
+<annotation id="annotation_1896297759" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzP-eM8Lxjyg%23t%3D5m12s&amp;a-v=zP-eM8Lxjyg&amp;xble=1&amp;l-class=1&amp;a-id=annotation_1896297759&amp;ei=vd03XN2sNoy58gT24b2QAw" itct="CAEQs-UBGP___________wEiEwid_4qat-TfAhWMnJwKHfZwDzIo-B0yAml2SKiexpe8xuf_zAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.79200" y="0.00000" w="25.00000" h="27.77800" t="0:02.000"/>
+      <rectRegion x="0.79200" y="0.00000" w="25.00000" h="27.77800" t="0:13.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1896297759&amp;ei=vd03XN2sNoy58gT24b2QAw&amp;feature=iv&amp;src_vid=zP-eM8Lxjyg&amp;v=zP-eM8Lxjyg#t=5m12s" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2890398393" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>YouTube is derping annotation editing, so click here to skip to the Iris fight.</TEXT>
+  <segment spaceRelative="annotation_1896297759">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1896297759" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

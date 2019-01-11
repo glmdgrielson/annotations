@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIvfXfwLfk3wIVQ6DBCh3xaQQdKPgdMgJpdkif2bWP-v3v6Bs">
+<annotation id="annotation_1149938929" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1681836945">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1681836945" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1681836945" type="highlight" log_data="a-id=annotation_1681836945&amp;a-type=3&amp;ei=Dt43XL22O8PAhgbx05HoAQ&amp;a-v=G9G_76HtbJ8&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DG9G_76HtbJ8%23t%3D6m12s&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwi99d_At-TfAhVDoMEKHfFpBB0o-B0yAml2SJ_ZtY_6_e_oGw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.58500" y="2.53500" w="25.00000" h="11.71800" t="1:04.000"/>
+      <rectRegion x="1.58500" y="2.53500" w="25.00000" h="11.71800" t="6:11.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1681836945&amp;ei=Dt43XL22O8PAhgbx05HoAQ&amp;feature=iv&amp;src_vid=G9G_76HtbJ8&amp;v=G9G_76HtbJ8#t=6m12s" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2453406583" type="text" style="popup" log_data="xble=1&amp;a-v=G9G_76HtbJ8&amp;ei=Dt43XL22O8PAhgbx05HoAQ&amp;a-id=annotation_2453406583&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwi99d_At-TfAhVDoMEKHfFpBB0o-B0yAml2SJ_ZtY_6_e_oGw">
+  <TEXT>Music is &quot;The Ginger Swing&quot;
+by Skrå Planer (link in desc.)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="44.37400" y="0.28200" w="29.52500" h="12.26800" t="1:16.000"/>
+      <rectRegion x="44.37400" y="0.28200" w="29.52500" h="12.26800" t="1:25.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

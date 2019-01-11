@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3N7vk7bk3wIVZ4OcCh22CQBhKPgdMgJpdkiQhbKC_4ntjTc">
+<annotation id="annotation_1060177561" type="text" style="popup" log_data="link=https%3A%2F%2Fpatreon.com%2FMarriland&amp;a-type=1&amp;ei=pNw3XNz8GeeG8gS2k4CIBg&amp;a-id=annotation_1060177561&amp;l-class=8&amp;xble=1&amp;a-v=Nxu0T_BMgpA" itct="CAEQs-UBGP___________wEiEwjc3u-TtuTfAhVng5wKHbYJAGEo-B0yAml2SJCFsoL_ie2NNw">
+  <TEXT>Please don&#39;t ask for the IP; it&#39;s for Patrons who have had their pledge successfully process at the start of the month. You can see what it takes to become a Patron on my Patreon by clicking this annotation and maybe you can join me next month!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.60700" y="45.35200" w="91.01400" h="23.25400" t="1:21.059"/>
+      <rectRegion x="7.60700" y="45.35200" w="91.01400" h="23.25400" t="1:40.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://patreon.com/Marriland" link_class="8"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1252886939" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3472969179">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3472969179" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3472969179" type="highlight" log_data="link=https%3A%2F%2Fpatreon.com%2FMarriland&amp;a-type=3&amp;ei=pNw3XNz8GeeG8gS2k4CIBg&amp;a-id=annotation_3472969179&amp;l-class=8&amp;xble=1&amp;a-v=Nxu0T_BMgpA" itct="CAIQs-UBGP___________wEiEwjc3u-TtuTfAhVng5wKHbYJAGEo-B0yAml2SJCFsoL_ie2NNw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.37700" y="73.80300" w="95.04800" h="24.39400" t="51:50.000"/>
+      <rectRegion x="2.37700" y="73.80300" w="95.04800" h="24.39400" t="52:03.477"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://patreon.com/Marriland" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_564114471" type="text" style="popup" log_data="ei=pNw3XNz8GeeG8gS2k4CIBg&amp;a-id=annotation_564114471&amp;a-type=1&amp;a-v=Nxu0T_BMgpA&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjc3u-TtuTfAhVng5wKHbYJAGEo-B0yAml2SJCFsoL_ie2NNw">
+  <TEXT>Sorry this took so long to be released! As I explain, there were a lot of problems. This video is unfortunately post commentary and on an older version of Pixelmon, but I will get caught up, don&#39;t worry! Hope you enjoy!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.07100" y="37.18300" w="24.92900" h="50.01400" t="0:00.597"/>
+      <rectRegion x="75.07100" y="37.18300" w="24.92900" h="50.01400" t="0:25.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5KeDrbnk3wIVyOBgCh2r_gQsKPgdMgJpdkiB4-LjqsXQp38">
+<annotation id="annotation_448702" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_630135">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_630135" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_504682" type="text" style="popup" log_data="ei=_t83XOSwHcjBgwOr_ZPgAg&amp;a-id=annotation_504682&amp;xble=1&amp;a-type=1&amp;a-v=f09CKqx4sYE" itct="CAEQs-UBGP___________wEiEwjkp4OtueTfAhXI4GAKHav-BCwo-B0yAml2SIHj4uOqxdCnfw">
+  <TEXT>The official pronunciations were confirmed immediately after the production of this video. That&#39;s how it goes!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="16.71900" y="78.33300" w="34.21900" h="21.66700" t="0:00:40.8"/>
+      <rectRegion x="16.71900" y="78.33300" w="34.21900" h="21.66700" t="0:00:45.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_630135" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dcurseentertainment&amp;l-class=5&amp;ei=_t83XOSwHcjBgwOr_ZPgAg&amp;a-id=annotation_630135&amp;a-type=3&amp;a-v=f09CKqx4sYE" itct="CAIQs-UBGP___________wEiEwjkp4OtueTfAhXI4GAKHav-BCwo-B0yAml2SIHj4uOqxdCnfw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.59400" y="9.44400" w="51.25000" h="73.33300" t="0:01:25.9"/>
+      <rectRegion x="3.59400" y="9.44400" w="51.25000" h="73.33300" t="0:01:38.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=curseentertainment&amp;annotation_id=annotation_630135&amp;ei=_t83XOSwHcjBgwOr_ZPgAg&amp;feature=iv&amp;src_vid=f09CKqx4sYE" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_959447" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_999340">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_999340" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_999340" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fcurseentertainment&amp;l-class=3&amp;ei=_t83XOSwHcjBgwOr_ZPgAg&amp;a-id=annotation_999340&amp;a-type=3&amp;a-v=f09CKqx4sYE" itct="CAMQs-UBGP___________wEiEwjkp4OtueTfAhXI4GAKHav-BCwo-B0yAml2SIHj4uOqxdCnfw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="60.46900" y="0.00000" w="35.78100" h="98.88900" t="0:01:25.9"/>
+      <rectRegion x="60.46900" y="0.00000" w="35.78100" h="98.88900" t="0:01:38.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/curseentertainment?annotation_id=annotation_999340&amp;ei=_t83XOSwHcjBgwOr_ZPgAg&amp;feature=iv&amp;src_vid=f09CKqx4sYE" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

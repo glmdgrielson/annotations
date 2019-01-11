@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIxKnLi7rk3wIVAYDBCh217AVEKPgdMgJpdkj1qfrXh4Os8k8">
+<annotation id="annotation_222014" type="highlight" log_data="l-class=2&amp;a-type=3&amp;a-id=annotation_222014&amp;xble=1&amp;ei=xOA3XMS3MIGAhga12ZegBA&amp;a-v=T-SwGHr-lPU&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC" itct="CAEQs-UBGP___________wEiEwjEqcuLuuTfAhUBgMEKHbXsBUQo-B0yAml2SPWp-teHg6zyTw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="89.72200" w="11.71900" h="10.27800" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="89.72200" w="11.71900" h="10.27800" t="0:35:20.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_222014&amp;ei=xOA3XMS3MIGAhga12ZegBA&amp;feature=iv&amp;list=PLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC&amp;src_vid=T-SwGHr-lPU" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_224549" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Watch the Playlist!</TEXT>
+  <segment spaceRelative="annotation_222014">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="-19.72200" w="11.71900" h="10.00000" t="never"/>
+      <rectRegion x="0.00000" y="-19.72200" w="11.71900" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_222014" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_727909" type="text" style="popup" log_data="xble=1&amp;ei=xOA3XMS3MIGAhga12ZegBA&amp;a-v=T-SwGHr-lPU&amp;a-type=1&amp;a-id=annotation_727909" itct="CAIQs-UBGP___________wEiEwjEqcuLuuTfAhUBgMEKHbXsBUQo-B0yAml2SPWp-teHg6zyTw">
+  <TEXT>Music is Mechanolith by Kevin MacLeod</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.65600" y="90.00000" w="47.34400" h="8.88900" t="0:34:20.1"/>
+      <rectRegion x="12.65600" y="90.00000" w="47.34400" h="8.88900" t="0:34:42.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation></annotations></document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIosao-rnk3wIVzerBCh0aigtHKPgdMgJpdkjDrKHpkv-7nUE">
+<annotation id="annotation_408554" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC&amp;ei=oOA3XKL2Is3VhwaalK64BA&amp;a-v=QTrv-S0oVkM&amp;l-class=2&amp;a-type=3&amp;a-id=annotation_408554" itct="CAEQs-UBGP___________wEiEwiixqj6ueTfAhXN6sEKHRqKC0co-B0yAml2SMOsoemS_7udQQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="90.00000" w="11.71900" h="9.72200" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="90.00000" w="11.71900" h="9.72200" t="0:31:51.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_408554&amp;ei=oOA3XKL2Is3VhwaalK64BA&amp;feature=iv&amp;list=PLgYcvjQqu5W7VhobGMy86Pe7IwbbneumC&amp;src_vid=QTrv-S0oVkM" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_912510" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_408554">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="5.55600" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="5.55600" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_408554" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

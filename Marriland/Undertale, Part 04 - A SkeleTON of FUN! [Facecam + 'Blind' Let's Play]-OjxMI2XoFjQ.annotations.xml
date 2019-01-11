@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIy7ezv7bk3wIVgbTBCh29dAtYKPgdMgJpdki0rKCvtoSTnjo">
+<annotation id="annotation_1533186745" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>You found the secret annotation dangling from the sky! It fills you with determination.</TEXT>
+  <segment spaceRelative="annotation_2529193195">
+    <movingRegion type="rect">
+      <rectRegion x="-26.47400" y="5.93000" w="29.12000" h="21.49300" t="never"/>
+      <rectRegion x="-26.47400" y="5.93000" w="29.12000" h="21.49300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2529193195" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1567174345" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FMarriland%3Fsub_confirmation%3D1&amp;xble=1&amp;l-class=5&amp;a-type=3&amp;a-v=OjxMI2XoFjQ&amp;ei=_9w3XIu8K4Hphga96a3ABQ&amp;a-id=annotation_1567174345" itct="CAEQs-UBGP___________wEiEwjLt7O_tuTfAhWBtMEKHb10C1go-B0yAml2SLSsoK-2hJOeOg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="88.94600" y="61.69000" w="11.05400" h="9.18300" t="0:03.500"/>
+      <rectRegion x="88.94600" y="61.69000" w="11.05400" h="9.18300" t="45:13.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/Marriland?annotation_id=annotation_1567174345&amp;ei=_9w3XIu8K4Hphga96a3ABQ&amp;feature=iv&amp;src_vid=OjxMI2XoFjQ&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1859625273" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLgYcvjQqu5W7Mi6BgtjRpX8ehG3IuhBST&amp;xble=1&amp;l-class=2&amp;a-type=3&amp;a-v=OjxMI2XoFjQ&amp;ei=_9w3XIu8K4Hphga96a3ABQ&amp;a-id=annotation_1859625273" itct="CAIQs-UBGP___________wEiEwjLt7O_tuTfAhWBtMEKHb10C1go-B0yAml2SLSsoK-2hJOeOg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="88.62900" y="52.11300" w="11.37100" h="9.75000" t="0:03.579"/>
+      <rectRegion x="88.62900" y="52.11300" w="11.37100" h="9.75000" t="45:13.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_1859625273&amp;ei=_9w3XIu8K4Hphga96a3ABQ&amp;feature=iv&amp;list=PLgYcvjQqu5W7Mi6BgtjRpX8ehG3IuhBST&amp;src_vid=OjxMI2XoFjQ" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2240508623" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Check out the playlist!</TEXT>
+  <segment spaceRelative="annotation_1859625273">
+    <movingRegion type="rect">
+      <rectRegion x="-1.46600" y="28.16900" w="12.79700" h="11.63400" t="never"/>
+      <rectRegion x="-1.46600" y="28.16900" w="12.79700" h="11.63400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1859625273" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2529193195" type="highlight" log_data="a-type=3&amp;a-id=annotation_2529193195&amp;xble=1&amp;ei=_9w3XIu8K4Hphga96a3ABQ&amp;a-v=OjxMI2XoFjQ" itct="CAMQs-UBGP___________wEiEwjLt7O_tuTfAhWBtMEKHb10C1go-B0yAml2SLSsoK-2hJOeOg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="48.97000" y="18.29600" w="8.51000" h="13.42300" t="6:37.641"/>
+      <rectRegion x="48.97000" y="18.29600" w="8.51000" h="13.42300" t="7:29.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+</annotation>
+
+<annotation id="annotation_2550255619" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Support me on Patreon</TEXT>
+  <segment spaceRelative="annotation_3328107369">
+    <movingRegion type="rect">
+      <rectRegion x="-1.62400" y="8.45100" w="13.74800" h="11.07000" t="never"/>
+      <rectRegion x="-1.62400" y="8.45100" w="13.74800" h="11.07000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3328107369" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3328107369" type="highlight" log_data="link=https%3A%2F%2Fpatreon.com%2FMarriland&amp;xble=1&amp;l-class=8&amp;a-type=3&amp;a-v=OjxMI2XoFjQ&amp;ei=_9w3XIu8K4Hphga96a3ABQ&amp;a-id=annotation_3328107369" itct="CAQQs-UBGP___________wEiEwjLt7O_tuTfAhWBtMEKHb10C1go-B0yAml2SLSsoK-2hJOeOg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="87.99500" y="71.54900" w="12.00500" h="9.18600" t="0:03.500"/>
+      <rectRegion x="87.99500" y="71.54900" w="12.00500" h="9.18600" t="45:13.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://patreon.com/Marriland" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3397433481" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to me ;)</TEXT>
+  <segment spaceRelative="annotation_1567174345">
+    <movingRegion type="rect">
+      <rectRegion x="-1.78300" y="18.59200" w="12.95600" h="13.32400" t="never"/>
+      <rectRegion x="-1.78300" y="18.59200" w="12.95600" h="13.32400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1567174345" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>
